@@ -1,0 +1,89 @@
+origin,cik,company,rule_id,severity,owner,definition,checked_count,flagged_count,passed_count,status
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,1105,0,1105,PASS
+REAL_PUBLIC,1390777,BANK OF NEW YORK MELLON CORP,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,1105,0,1105,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",656,2,654,INFORMATION
+REAL_PUBLIC,1393818,BLACKSTONE INC.,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,656,0,656,PASS
+REAL_PUBLIC,1393818,BLACKSTONE INC.,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,656,0,656,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",1218,2,1216,INFORMATION
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,1218,0,1218,PASS
+REAL_PUBLIC,19617,JPMORGAN CHASE & CO,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,1218,0,1218,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,940,0,940,PASS
+REAL_PUBLIC,316709,SCHWAB CHARLES CORP,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,940,0,940,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",1532,2,1530,INFORMATION
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,1532,0,1532,PASS
+REAL_PUBLIC,70858,BANK OF AMERICA CORP /DE/,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,1532,0,1532,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",984,2,982,INFORMATION
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,984,0,984,PASS
+REAL_PUBLIC,886982,GOLDMAN SACHS GROUP INC,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,984,0,984,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",1229,2,1227,INFORMATION
+REAL_PUBLIC,895421,MORGAN STANLEY,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,1229,0,1229,PASS
+REAL_PUBLIC,895421,MORGAN STANLEY,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,1229,0,1229,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,CONFLICTING_VALUE,ERROR,Data Engineering,Repeated full context keys cannot disagree on value.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,DUPLICATE_KEY,ERROR,Data Engineering,Full SEC NUM context key is unique; other dates/segments are not duplicates.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,FILING_LINK,ERROR,Data Engineering,Fact accession resolves to a selected filing.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,INSTANT_DURATION,ERROR,Reporting Analyst,Instant-type taxonomy facts have zero quarter duration.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,NIL_DISCLOSURE,INFO,Reporting Analyst,"Nil facts are preserved as unknown, never converted to zero.",1287,2,1285,INFORMATION
+REAL_PUBLIC,93751,STATE STREET CORP,NUMERIC_VALUE,ERROR,Data Engineering,Non-nil values parse as finite decimals.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,REQUIRED_FIELDS,ERROR,Data Engineering,Required numeric-fact keys are populated.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,TAG_LINK,ERROR,Data Engineering,Tag and taxonomy version resolve together.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,UNIT_CONTRACT,REVIEW,Reporting Analyst,Monetary and share facts use compatible unit types.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,VALID_DATE,ERROR,Data Engineering,Fact period-end is a valid YYYYMMDD date.,1287,0,1287,PASS
+REAL_PUBLIC,93751,STATE STREET CORP,VALID_DURATION,ERROR,Data Engineering,Quarter duration is a non-negative integer.,1287,0,1287,PASS

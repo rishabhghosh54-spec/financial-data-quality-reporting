@@ -1,0 +1,46 @@
+{
+  "source_title": "SEC Financial Statement Data Sets",
+  "source_url": "https://www.sec.gov/files/dera/data/financial-statement-data-sets/2026q3.zip",
+  "landing_page": "https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets",
+  "documentation_url": "https://www.sec.gov/files/financial-statement-data-sets.pdf",
+  "download_batch": "2026Q3",
+  "downloaded_on": "2026-11-08",
+  "archive_sha256": "b6ebdc56b78526a6423f5b99f6e355afcb0510e7264324300ee5f0d3bd1bad21",
+  "selection": {
+    "ciks": [
+      "1390777",
+      "1393818",
+      "19617",
+      "316709",
+      "70858",
+      "886982",
+      "895421",
+      "93751"
+    ],
+    "forms": [
+      "10-Q",
+      "10-K",
+      "10-Q/A",
+      "10-K/A"
+    ]
+  },
+  "files": {
+    "sub.tsv": {
+      "rows": 8,
+      "sha256": "fe66f539a1cb230d690480506b5efdf5f3acaf8eb4fb2a12ab1ea936152a669e"
+    },
+    "num.tsv": {
+      "rows": 8951,
+      "sha256": "295ac102fb6ffbff8955051566e952e30ae301bbd1f49f21a89a61a664538925"
+    },
+    "pre.tsv": {
+      "rows": 1223,
+      "sha256": "cd781c307bb69c07166ddc8f56207554f4a625d3aa6978013bc8032cc30031de"
+    },
+    "tag.tsv": {
+      "rows": 531,
+      "sha256": "84af9d0c2393702cd76f4348c4be08d7172dd3b41dcf5a6c5645ab758a2227ef"
+    }
+  },
+  "classification": "Real public financial facts. Subset extraction only; no injected errors in data/raw."
+}

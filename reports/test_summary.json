@@ -1,0 +1,6 @@
+{
+  "tests": 23,
+  "passed": 23,
+  "failed": 0,
+  "source": "Controlled in-memory cases and read-only source regressions; no injected rows in data/raw."
+}

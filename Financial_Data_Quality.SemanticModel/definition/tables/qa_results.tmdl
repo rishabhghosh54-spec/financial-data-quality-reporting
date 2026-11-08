@@ -1,0 +1,75 @@
+table qa_results
+	lineageTag: 7ed49ce2-5ab5-48bf-98db-fcdd0ccc8a87
+
+	measure 'QA Cases' = COUNTROWS('qa_results')
+		formatString: 0
+		displayFolder: Reporting Controls
+		lineageTag: 1f13af54-9ece-41ae-9b79-105c5a0fab3c
+
+	measure 'QA Passed' = COALESCE(SUM('qa_results'[passed]), 0)
+		formatString: 0
+		displayFolder: Reporting Controls
+		lineageTag: 410b1c0e-abe6-4493-af1b-5d3ec232157f
+
+	measure 'QA Failed' = COALESCE(SUM('qa_results'[failed]), 0)
+		formatString: 0
+		displayFolder: Reporting Controls
+		lineageTag: 626730b2-8b13-4943-affe-b95624dd7d37
+
+	measure 'QA Pass Rate' = DIVIDE([QA Passed], [QA Cases])
+		formatString: 0%
+		displayFolder: Reporting Controls
+		lineageTag: f00a9595-a722-4902-9bf6-f5496f0b976a
+
+	column test_id
+		dataType: string
+		lineageTag: 060d2623-700d-49c9-b2af-8257e7583ec2
+		summarizeBy: none
+		sourceColumn: test_id
+
+	column description
+		dataType: string
+		lineageTag: b47a7b1a-a7bd-4c62-80ed-0734e8be4a08
+		summarizeBy: none
+		sourceColumn: description
+
+	column origin
+		dataType: string
+		lineageTag: 5c9e54d9-451b-42f1-8550-f4037947289f
+		summarizeBy: none
+		sourceColumn: origin
+
+	column status
+		dataType: string
+		lineageTag: 58ad2f68-31ea-4522-95bd-ad44db9298b2
+		summarizeBy: none
+		sourceColumn: status
+
+	column passed
+		dataType: int64
+		lineageTag: 077d12a4-627f-4eb2-8c50-80a7504ed494
+		summarizeBy: sum
+		sourceColumn: passed
+
+	column failed
+		dataType: int64
+		lineageTag: f32c81d8-9a4a-446a-9ee3-8f9e11adcef6
+		summarizeBy: sum
+		sourceColumn: failed
+
+	column detail
+		dataType: string
+		lineageTag: 8470e844-cd83-44c4-8f16-134ce4a30370
+		summarizeBy: none
+		sourceColumn: detail
+
+	partition qa_results = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\financial-data-quality-reporting\reports\test_results.csv"),[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"test_id", type text}, {"description", type text}, {"origin", type text}, {"status", type text}, {"passed", Int64.Type}, {"failed", Int64.Type}, {"detail", type text}}, "en-US")
+				in
+				    Typed
+

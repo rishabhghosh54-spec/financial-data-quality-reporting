@@ -1,0 +1,47 @@
+Filings =
+DISTINCTCOUNT('reporting_controls'[adsh])
+
+Companies =
+DISTINCTCOUNT('reporting_controls'[cik])
+
+Numeric Facts =
+SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[numeric_facts])))
+
+Rule Evaluations =
+SUM('reporting_controls'[checked_count])
+
+Actionable Events =
+COALESCE(CALCULATE(SUM('reporting_controls'[flagged_count]), KEEPFILTERS('reporting_controls'[severity] <> "INFO")), 0)
+
+Nil Disclosures =
+COALESCE(CALCULATE(SUM('reporting_controls'[flagged_count]), KEEPFILTERS('reporting_controls'[rule_id] = "NIL_DISCLOSURE")), 0)
+
+Flagged Events =
+SUM('reporting_controls'[flagged_count])
+
+Passed Evaluations =
+SUM('reporting_controls'[passed_count])
+
+Balance Checks Passed =
+SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[balance_passed])))
+
+Balance Pass Rate =
+DIVIDE([Balance Checks Passed], [Filings])
+
+Reported Assets (USD bn) =
+DIVIDE(SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[assets_usd]))), 1000000000)
+
+Quarter Net Income (USD bn) =
+DIVIDE(SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[quarter_net_income_usd]))), 1000000000)
+
+QA Cases =
+COUNTROWS('qa_results')
+
+QA Passed =
+COALESCE(SUM('qa_results'[passed]), 0)
+
+QA Failed =
+COALESCE(SUM('qa_results'[failed]), 0)
+
+QA Pass Rate =
+DIVIDE([QA Passed], [QA Cases])

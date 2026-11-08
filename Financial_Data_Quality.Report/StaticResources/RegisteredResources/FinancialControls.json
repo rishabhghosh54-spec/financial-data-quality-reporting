@@ -1,0 +1,12 @@
+{
+  "name": "Financial Controls Navy",
+  "dataColors": [
+    "#20C4B7",
+    "#619FFA",
+    "#D9B978",
+    "#8C88E8"
+  ],
+  "background": "#0B1426",
+  "foreground": "#F4F7FB",
+  "tableAccent": "#20C4B7"
+}

@@ -1,0 +1,23 @@
+{
+  "run_utc": "2026-11-08T13:04:57.138513+00:00",
+  "source_mode": "REAL_PUBLIC",
+  "filings": 8,
+  "companies": 8,
+  "numeric_facts": 8951,
+  "tag_definitions": 531,
+  "presentation_rows": 1223,
+  "rule_evaluations": 98461,
+  "exception_events": 12,
+  "error_events": 0,
+  "review_events": 0,
+  "informational_events": 12,
+  "distinct_facts_with_error_or_review": 0,
+  "balance_checks_passed": 8,
+  "balance_checks_evaluated": 8,
+  "input_sha256": {
+    "num.tsv": "295ac102fb6ffbff8955051566e952e30ae301bbd1f49f21a89a61a664538925",
+    "pre.tsv": "cd781c307bb69c07166ddc8f56207554f4a625d3aa6978013bc8032cc30031de",
+    "sub.tsv": "fe66f539a1cb230d690480506b5efdf5f3acaf8eb4fb2a12ab1ea936152a669e",
+    "tag.tsv": "84af9d0c2393702cd76f4348c4be08d7172dd3b41dcf5a6c5645ab758a2227ef"
+  }
+}

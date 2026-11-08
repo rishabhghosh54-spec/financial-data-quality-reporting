@@ -1,0 +1,1224 @@
+adsh	report	line	stmt	inpth	rfile	tag	version	plabel	negating
+0000070858-26-000394	2	2	IS	0	H	InterestAndDividendIncomeOperating	us-gaap/2026	Interest income	0
+0000070858-26-000394	2	3	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	0
+0000070858-26-000394	2	4	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest income	0
+0000070858-26-000394	2	6	IS	0	H	FeesAndCommissions1	0000070858-26-000394	Fees and commissions	0
+0000070858-26-000394	2	7	IS	0	H	TradingGainsLosses	us-gaap/2026	Market making and similar activities	0
+0000070858-26-000394	2	8	IS	0	H	NoninterestIncomeOtherOperatingIncome	us-gaap/2026	Other income (loss)	0
+0000070858-26-000394	2	9	IS	0	H	NoninterestIncome	us-gaap/2026	Total noninterest income	0
+0000070858-26-000394	2	10	IS	0	H	Revenues	us-gaap/2026	Total revenue, net of interest expense	0
+0000070858-26-000394	2	11	IS	0	H	FinancingReceivableExcludingAccruedInterestAndOffBalanceSheetLiabilityCreditLossProvisionReversal	0000070858-26-000394	Provision for credit losses	0
+0000070858-26-000394	2	13	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Compensation and benefits	0
+0000070858-26-000394	2	14	IS	0	H	CommunicationsAndInformationTechnology	us-gaap/2026	Information processing and communications	0
+0000070858-26-000394	2	15	IS	0	H	OccupancyNet	us-gaap/2026	Occupancy and equipment	0
+0000070858-26-000394	2	16	IS	0	H	ProductDeliveryAndTransactionRelatedExpenses	0000070858-26-000394	Product delivery and transaction related	0
+0000070858-26-000394	2	17	IS	0	H	ProfessionalFees	us-gaap/2026	Professional fees	0
+0000070858-26-000394	2	18	IS	0	H	MarketingAndAdvertisingExpense	us-gaap/2026	Marketing	0
+0000070858-26-000394	2	19	IS	0	H	OtherCostAndExpenseOperating	us-gaap/2026	Other general operating	0
+0000070858-26-000394	2	20	IS	0	H	NoninterestExpense	us-gaap/2026	Total noninterest expense	0
+0000070858-26-000394	2	21	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Income before income taxes	0
+0000070858-26-000394	2	22	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Income tax expense	0
+0000070858-26-000394	2	23	IS	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000070858-26-000394	2	24	IS	0	H	PreferredStockDividendsAndOtherAdjustments	us-gaap/2026	Preferred stock dividends and other	0
+0000070858-26-000394	2	25	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Net income applicable to common shareholders	0
+0000070858-26-000394	2	27	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Earnings (in dollars per share)	0
+0000070858-26-000394	2	28	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted earnings (in dollars per share)	0
+0000070858-26-000394	2	29	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Average common shares issued and outstanding (in shares)	0
+0000070858-26-000394	2	30	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Average diluted common shares issued and outstanding (in shares)	0
+0000070858-26-000394	3	1	CI	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000070858-26-000394	3	3	CI	0	H	OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Net change in debt securities	0
+0000070858-26-000394	3	4	CI	0	H	OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionAfterTaxAndReclassificationAdjustmentAttributableToParent	us-gaap/2026	Net change in debit valuation adjustments	0
+0000070858-26-000394	3	5	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent	us-gaap/2026	Net change in derivatives	0
+0000070858-26-000394	3	6	CI	0	H	OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Employee benefit plan adjustments	1
+0000070858-26-000394	3	7	CI	0	H	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Net change in foreign currency translation adjustments	0
+0000070858-26-000394	3	8	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income (loss)	0
+0000070858-26-000394	3	9	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive income	0
+0000070858-26-000394	4	7	BS	0	H	CashAndDueFromBanks	us-gaap/2026	Cash and due from banks	0
+0000070858-26-000394	4	8	BS	0	H	InterestBearingDepositsInBanks	us-gaap/2026	Interest-bearing deposits with the Federal Reserve, non-U.S. central banks and other banks	0
+0000070858-26-000394	4	9	BS	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents	0
+0000070858-26-000394	4	10	BS	0	H	TimeDepositsAndOtherShortTermInvestments	0000070858-26-000394	Time deposits placed and other short-term investments	0
+0000070858-26-000394	4	11	BS	0	H	FederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Federal funds sold and securities borrowed or purchased under agreements to resell (includes $217,206 and $185,491 measured at fair value)	0
+0000070858-26-000394	4	12	BS	0	H	TradingSecurities	us-gaap/2026	Trading account assets (includes $178,949 and $185,869 pledged as collateral)	0
+0000070858-26-000394	4	13	BS	0	H	DerivativeAssets	us-gaap/2026	Derivative assets	0
+0000070858-26-000394	4	15	BS	0	H	DebtSecuritiesCarriedAtFairValueExcludingAccruedInterest	0000070858-26-000394	Carried at fair value	0
+0000070858-26-000394	4	16	BS	0	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held-to-maturity, at amortized cost (fair value $423,734 and $442,430)	0
+0000070858-26-000394	4	17	BS	0	H	MarketableSecurities	us-gaap/2026	Total debt securities	0
+0000070858-26-000394	4	18	BS	0	H	FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss	us-gaap/2026	Loans and leases (includes $3,359 and $3,498 measured at fair value)	0
+0000070858-26-000394	4	19	BS	0	H	FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Allowance for loan and lease losses	1
+0000070858-26-000394	4	20	BS	0	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Loans and leases, net of allowance	0
+0000070858-26-000394	4	21	BS	0	H	PropertyPlantAndEquipmentNet	us-gaap/2026	Premises and equipment, net	0
+0000070858-26-000394	4	22	BS	0	H	Goodwill	us-gaap/2026	Goodwill	0
+0000070858-26-000394	4	23	BS	0	H	FinancingReceivableHeldForSaleExcludingAccruedInterestNotPartOfDisposalGroupAfterValuationAllowance	0000070858-26-000394	Loans held-for-sale (includes $3,842 and $2,271 measured at fair value)	0
+0000070858-26-000394	4	24	BS	0	H	OtherReceivables	us-gaap/2026	Customer and other receivables	0
+0000070858-26-000394	4	25	BS	0	H	OtherAssets	us-gaap/2026	Other assets (includes $7,311 and $9,058 measured at fair value)	0
+0000070858-26-000394	4	26	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0000070858-26-000394	4	29	BS	0	H	NoninterestBearingDepositLiabilitiesDomestic	us-gaap/2026	Noninterest-bearing	0
+0000070858-26-000394	4	30	BS	0	H	InterestBearingDepositLiabilitiesDomestic	us-gaap/2026	Interest-bearing (includes $1,828 and $1,223 measured at fair value)	0
+0000070858-26-000394	4	32	BS	0	H	NoninterestBearingDepositLiabilitiesForeign	us-gaap/2026	Noninterest-bearing	0
+0000070858-26-000394	4	33	BS	0	H	InterestBearingDepositLiabilitiesForeign	us-gaap/2026	Interest-bearing	0
+0000070858-26-000394	4	34	BS	0	H	Deposits	us-gaap/2026	Total deposits	0
+0000070858-26-000394	4	35	BS	0	H	FederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2026	Federal funds purchased and securities loaned or sold under agreements to repurchase (includes $223,698 and $223,067 measured at fair value)	0
+0000070858-26-000394	4	36	BS	0	H	TradingLiabilities	us-gaap/2026	Trading account liabilities	0
+0000070858-26-000394	4	37	BS	0	H	DerivativeLiabilities	us-gaap/2026	Derivative liabilities	0
+0000070858-26-000394	4	38	BS	0	H	OtherShortTermBorrowings	us-gaap/2026	Short-term borrowings (includes $11,431 and $8,051 measured at fair value)	0
+0000070858-26-000394	4	39	BS	0	H	AccruedLiabilitiesAndOtherLiabilities	us-gaap/2026	Accrued expenses and other liabilities (includes $4,830 and $8,996 measured at fair value and $1,150 and $1,177 of reserve for unfunded lending commitments)	0
+0000070858-26-000394	4	40	BS	0	H	LongTermDebt	us-gaap/2026	Long-term debt (includes $84,797 and $72,591 measured at fair value)	0
+0000070858-26-000394	4	41	BS	0	H	OtherLiabilities	us-gaap/2026	All other liabilities (includes $20 and $18 of non-recourse liabilities)	0
+0000070858-26-000394	4	42	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0000070858-26-000394	4	43	BS	0	H	CommitmentsAndContingencies	us-gaap/2026	Commitments and contingencies (Note 6  Securitizations and Other Variable Interest Entities and Note 10  Commitments and Contingencies)	0
+0000070858-26-000394	4	45	BS	0	H	PreferredStockRedeemableAndNonRedeemableValue	0000070858-26-000394	Preferred stock, $0.01 par value; authorized  100,000,000 shares; issued and outstanding  3,951,164 and 3,991,164 shares	0
+0000070858-26-000394	4	46	BS	0	H	CommonStocksIncludingAdditionalPaidInCapital	us-gaap/2026	Common stock and additional paid-in capital, $0.01 par value; authorized  12,800,000,000 shares; issued and outstanding  7,017,967,460 and 7,212,464,345 shares	0
+0000070858-26-000394	4	47	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0000070858-26-000394	4	48	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive income (loss)	0
+0000070858-26-000394	4	49	BS	0	H	StockholdersEquity	us-gaap/2026	Total shareholders equity	0
+0000070858-26-000394	4	50	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities and shareholders equity	0
+0000070858-26-000394	5	10	BS	1	H	FederalFundsSoldAndSecuritiesBorrowedOrPurchasedUnderAgreementsToResellFairValueDisclosure	us-gaap/2026	Federal funds sold and securities borrowed or purchased under agreements to resell measured at fair value	0
+0000070858-26-000394	5	11	BS	1	H	DebtSecuritiesTradingRestricted	us-gaap/2026	Trading account assets, pledged as collateral	0
+0000070858-26-000394	5	12	BS	1	H	TradingSecurities	us-gaap/2026	Trading account assets	0
+0000070858-26-000394	5	13	BS	1	H	FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss	us-gaap/2026	Loans and leases	0
+0000070858-26-000394	5	14	BS	1	H	FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Allowance for loan and lease losses	1
+0000070858-26-000394	5	15	BS	1	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Loans and leases, net of allowance	0
+0000070858-26-000394	5	16	BS	1	H	OtherAssets	us-gaap/2026	All other assets	0
+0000070858-26-000394	5	17	BS	1	H	Assets	us-gaap/2026	Total assets	0
+0000070858-26-000394	5	19	BS	1	H	HeldToMaturitySecuritiesFairValue	us-gaap/2026	Fair Value	0
+0000070858-26-000394	5	20	BS	1	H	LoansReceivableFairValueDisclosure	us-gaap/2026	Loans and leases, measured at fair value	0
+0000070858-26-000394	5	21	BS	1	H	LoansHeldForSaleFairValueDisclosure	us-gaap/2026	Loans held for sale, measured at fair value	0
+0000070858-26-000394	5	22	BS	1	H	OtherAssetsFairValueDisclosure	us-gaap/2026	Other assets	0
+0000070858-26-000394	5	25	BS	1	H	InterestBearingDepositLiabilitiesDomesticFairValueDisclosure	0000070858-26-000394	Interest bearing, measured at fair value	0
+0000070858-26-000394	5	26	BS	1	H	FederalFundsPurchasedAndSecuritiesLoanedOrSoldUnderAgreementsToRepurchaseFairValueDisclosure	us-gaap/2026	Federal funds purchased and securities loans or sold under agreements to repurchase, at fair value	0
+0000070858-26-000394	5	27	BS	1	H	ShorttermDebtFairValue	us-gaap/2026	Short-term borrowings, measured at fair value	0
+0000070858-26-000394	5	28	BS	1	H	NonfinancialLiabilitiesFairValueDisclosure	us-gaap/2026	Accrued expenses and other liabilities, measured at fair value	0
+0000070858-26-000394	5	29	BS	1	H	CreditExtensionCommitmentsReserveForUnfundedLendingCommitments	0000070858-26-000394	Accrued expenses and other liabilities, reserve for unfunded lending commitments	0
+0000070858-26-000394	5	30	BS	1	H	LongTermDebtFairValue	us-gaap/2026	Long-term debt, measured at fair value	0
+0000070858-26-000394	5	31	BS	1	H	OtherShortTermBorrowings	us-gaap/2026	Short-term borrowings (includes $0 and $0 of non-recourse short-term borrowings)	0
+0000070858-26-000394	5	32	BS	1	H	LongTermDebt	us-gaap/2026	Long-term debt (includes $7,555 and $6,847 of non-recourse debt)	0
+0000070858-26-000394	5	33	BS	1	H	OtherLiabilities	us-gaap/2026	All other liabilities (includes $20 and $18 of non-recourse liabilities)	0
+0000070858-26-000394	5	34	BS	1	H	Liabilities	us-gaap/2026	Total liabilities	0
+0000070858-26-000394	5	36	BS	1	H	PreferredStockParOrStatedValuePerShare	us-gaap/2026	Preferred stock, par value (in dollars per share)	0
+0000070858-26-000394	5	37	BS	1	H	PreferredStockSharesAuthorized	us-gaap/2026	Preferred stock authorized (in shares)	0
+0000070858-26-000394	5	38	BS	1	H	PreferredStockSharesIssued	us-gaap/2026	Preferred stock issued (in shares)	0
+0000070858-26-000394	5	39	BS	1	H	PreferredStockSharesOutstanding	us-gaap/2026	Preferred stock outstanding (in shares)	0
+0000070858-26-000394	5	40	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock, par value (in dollars per share)	0
+0000070858-26-000394	5	41	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common stock authorized (in shares)	0
+0000070858-26-000394	5	42	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock issued (in shares)	0
+0000070858-26-000394	5	43	BS	1	H	CommonStockSharesOutstanding	us-gaap/2026	Common stock outstanding (in shares)	0
+0000070858-26-000394	6	10	EQ	0	H	StockholdersEquity	us-gaap/2026	Beginning balance	0
+0000070858-26-000394	6	11	EQ	0	H	SharesOutstanding	us-gaap/2026	Beginning balance (in shares)	0
+0000070858-26-000394	6	12	EQ	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000070858-26-000394	6	13	EQ	0	H	OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax	us-gaap/2026	Net change in debt securities	0
+0000070858-26-000394	6	14	EQ	0	H	OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionAfterTaxAndReclassificationAdjustmentAttributableToParent	us-gaap/2026	Net change in debit valuation adjustments	0
+0000070858-26-000394	6	15	EQ	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent	us-gaap/2026	Net change in derivatives	0
+0000070858-26-000394	6	16	EQ	0	H	OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Employee benefit plan adjustments	1
+0000070858-26-000394	6	17	EQ	0	H	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Net change in foreign currency translation adjustments	0
+0000070858-26-000394	6	19	EQ	0	H	DividendsCommonStockCash	us-gaap/2026	Common	1
+0000070858-26-000394	6	20	EQ	0	H	DividendsPreferredStockCash	us-gaap/2026	Preferred	1
+0000070858-26-000394	6	21	EQ	0	H	StockIssuedDuringPeriodValueNewIssues	us-gaap/2026	Issuance of preferred stock	0
+0000070858-26-000394	6	22	EQ	0	H	StockRedeemedOrCalledDuringPeriodValue	us-gaap/2026	Redemption of preferred stock	1
+0000070858-26-000394	6	23	EQ	0	H	SharesIssuedSharesShareBasedPaymentArrangementNetOfForfeiture	0000070858-26-000394	Common stock issued under employee plans, net, and other (in shares)	0
+0000070858-26-000394	6	24	EQ	0	H	SharesIssuedValueShareBasedPaymentArrangementNetOfForfeiture	0000070858-26-000394	Common stock issued under employee plans, net, and other	0
+0000070858-26-000394	6	25	EQ	0	H	StockRepurchasedAndRetiredDuringPeriodShares	us-gaap/2026	Common stock repurchased (in shares)	1
+0000070858-26-000394	6	26	EQ	0	H	StockRepurchasedAndRetiredDuringPeriodValue	us-gaap/2026	Common stock repurchased	1
+0000070858-26-000394	6	27	EQ	0	H	StockholdersEquity	us-gaap/2026	Ending balance	0
+0000070858-26-000394	6	28	EQ	0	H	SharesOutstanding	us-gaap/2026	Ending balance (in shares)	0
+0000070858-26-000394	7	2	CF	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000070858-26-000394	7	4	CF	0	H	FinancingReceivableExcludingAccruedInterestAndOffBalanceSheetLiabilityCreditLossProvisionReversal	0000070858-26-000394	Provision for credit losses	0
+0000070858-26-000394	7	5	CF	0	H	DebtSecuritiesAvailableForSaleRealizedGainLoss	us-gaap/2026	(Gains) losses on sales of debt securities	1
+0000070858-26-000394	7	6	CF	0	H	DepreciationDepletionAndAmortization	us-gaap/2026	Depreciation and amortization	0
+0000070858-26-000394	7	7	CF	0	H	AccretionAmortizationOfDiscountsAndPremiumsInvestments	us-gaap/2026	Net accretion of discount/premium on debt securities	1
+0000070858-26-000394	7	8	CF	0	H	DeferredIncomeTaxExpenseBenefit	us-gaap/2026	Deferred income taxes	0
+0000070858-26-000394	7	9	CF	0	H	ShareBasedCompensation	us-gaap/2026	Amortization of stock-based compensation	0
+0000070858-26-000394	7	11	CF	0	H	IncreaseDecreaseInFinancialInstrumentsUsedInOperatingActivitiesAndDerivativeAssets	0000070858-26-000394	Trading and derivative assets/liabilities	1
+0000070858-26-000394	7	12	CF	0	H	IncreaseDecreaseInLoansHeldForSale	us-gaap/2026	Loans held-for-sale	1
+0000070858-26-000394	7	13	CF	0	H	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2026	Other assets	1
+0000070858-26-000394	7	14	CF	0	H	IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities	us-gaap/2026	Accrued expenses and other liabilities	0
+0000070858-26-000394	7	15	CF	0	H	IncreaseDecreaseInOtherOperatingCapitalNet	us-gaap/2026	Other operating activities, net	1
+0000070858-26-000394	7	16	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash provided by (used in) operating activities	0
+0000070858-26-000394	7	18	CF	0	H	IncreaseDecreaseInTimeDepositsAndOtherShortTermInvestments	0000070858-26-000394	Time deposits placed and other short-term investments	1
+0000070858-26-000394	7	19	CF	0	H	ProceedsFromPaymentsForFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResellNet	us-gaap/2026	Federal funds sold and securities borrowed or purchased under agreements to resell	0
+0000070858-26-000394	7	21	CF	0	H	ProceedsFromSaleOfDebtSecuritiesFairValue	0000070858-26-000394	Proceeds from sales	0
+0000070858-26-000394	7	22	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfDebtSecuritiesFairValue	0000070858-26-000394	Proceeds from paydowns and maturities	0
+0000070858-26-000394	7	23	CF	0	H	PaymentsToAcquireDebtSecuritiesCarriedAtFairValue	0000070858-26-000394	Purchases	1
+0000070858-26-000394	7	25	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0000070858-26-000394	7	27	CF	0	H	ProceedsFromSaleOfLoansAndLeasesHeldForInvestment	us-gaap/2026	Proceeds from sales of loans originally classified as held for investment and instruments from related securitization activities	0
+0000070858-26-000394	7	28	CF	0	H	PaymentsToAcquireLoansAndLeasesHeldForInvestment	us-gaap/2026	Purchases	1
+0000070858-26-000394	7	29	CF	0	H	PaymentsForProceedsFromOtherLoansAndLeases	us-gaap/2026	Other changes in loans and leases, net	1
+0000070858-26-000394	7	30	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2026	Other investing activities, net	1
+0000070858-26-000394	7	31	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash used in investing activities	0
+0000070858-26-000394	7	33	CF	0	H	IncreaseDecreaseInDeposits	us-gaap/2026	Deposits	0
+0000070858-26-000394	7	34	CF	0	H	IncreaseDecreaseInFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchaseNet	us-gaap/2026	Federal funds purchased and securities loaned or sold under agreements to repurchase	0
+0000070858-26-000394	7	35	CF	0	H	ProceedsFromOtherShortTermDebt	us-gaap/2026	Short-term borrowings	0
+0000070858-26-000394	7	37	CF	0	H	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2026	Proceeds from issuance	0
+0000070858-26-000394	7	38	CF	0	H	RepaymentsOfLongTermDebt	us-gaap/2026	Retirement	1
+0000070858-26-000394	7	40	CF	0	H	ProceedsFromIssuanceOfPreferredStockAndPreferenceStock	us-gaap/2026	Proceeds from issuance	0
+0000070858-26-000394	7	41	CF	0	H	PaymentsForRepurchaseOfPreferredStockAndPreferenceStock	us-gaap/2026	Redemption	1
+0000070858-26-000394	7	42	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2026	Common stock repurchased	1
+0000070858-26-000394	7	43	CF	0	H	PaymentsOfOrdinaryDividends	us-gaap/2026	Cash dividends paid	1
+0000070858-26-000394	7	44	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	Other financing activities, net	0
+0000070858-26-000394	7	45	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by financing activities	0
+0000070858-26-000394	7	46	CF	0	H	EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Effect of exchange rate changes on cash and cash equivalents	0
+0000070858-26-000394	7	47	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Net increase (decrease) in cash and cash equivalents	0
+0000070858-26-000394	7	48	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents at January 1	0
+0000070858-26-000394	7	49	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents at June 30	0
+0000093751-26-000397	2	2	IS	0	H	FeesAndCommissionsServicingFees	0000093751-26-000397	Servicing fees	0
+0000093751-26-000397	2	3	IS	0	H	FeesAndCommissionsManagementFees	0000093751-26-000397	Management fees	0
+0000093751-26-000397	2	4	IS	0	H	FeesAndCommissionsForeignExchangeTradingServices	0000093751-26-000397	Foreign exchange trading services	0
+0000093751-26-000397	2	5	IS	0	H	FeesAndCommissionsSecuritiesFinance	0000093751-26-000397	Securities finance	0
+0000093751-26-000397	2	6	IS	0	H	FeesAndCommissionsFrontOfficeSoftwareAndData	0000093751-26-000397	Software services	0
+0000093751-26-000397	2	7	IS	0	H	NoninterestIncomeOther	us-gaap/2026	Other fee revenue	0
+0000093751-26-000397	2	8	IS	0	H	NoninterestIncome	us-gaap/2026	Total fee revenue	0
+0000093751-26-000397	2	10	IS	0	H	InterestAndDividendIncomeOperating	us-gaap/2026	Interest income	0
+0000093751-26-000397	2	11	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	0
+0000093751-26-000397	2	12	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest income	0
+0000093751-26-000397	2	14	IS	0	H	DebtSecuritiesAvailableForSaleRealizedGainLoss	us-gaap/2026	Gains (losses) from sales of available-for-sale securities, net	0
+0000093751-26-000397	2	15	IS	0	H	OtherOperatingIncomeExpenseNet	us-gaap/2026	Total other income	0
+0000093751-26-000397	2	16	IS	0	H	Revenues	us-gaap/2026	Total revenue	0
+0000093751-26-000397	2	17	IS	0	H	FinancingReceivableExcludingAccruedInterestCreditLossExpenseReversal	us-gaap/2026	Provision for credit losses	0
+0000093751-26-000397	2	19	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Compensation and employee benefits	0
+0000093751-26-000397	2	20	IS	0	H	CommunicationsAndInformationTechnology	us-gaap/2026	Information systems and communications	0
+0000093751-26-000397	2	21	IS	0	H	FloorBrokerageExchangeAndClearanceFees	us-gaap/2026	Transaction processing services	0
+0000093751-26-000397	2	22	IS	0	H	OccupancyNet	us-gaap/2026	Occupancy	0
+0000093751-26-000397	2	23	IS	0	H	OtherExpenses	us-gaap/2026	Other	0
+0000093751-26-000397	2	24	IS	0	H	NoninterestExpense	us-gaap/2026	Total expenses	0
+0000093751-26-000397	2	25	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Income before income tax expense	0
+0000093751-26-000397	2	26	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Income tax expense	0
+0000093751-26-000397	2	27	IS	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000093751-26-000397	2	28	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Net income available to common shareholders, basic	0
+0000093751-26-000397	2	29	IS	0	H	NetIncomeLossAvailableToCommonStockholdersDiluted	us-gaap/2026	Net income available to common shareholders, diluted	0
+0000093751-26-000397	2	31	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Basic (in USD per share)	0
+0000093751-26-000397	2	32	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted (in USD per share)	0
+0000093751-26-000397	2	34	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Basic (in shares)	0
+0000093751-26-000397	2	35	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Diluted (in shares)	0
+0000093751-26-000397	2	36	IS	0	H	CommonStockDividendsPerShareDeclared	us-gaap/2026	Cash dividends declared (in USD per share)	0
+0000093751-26-000397	3	1	CI	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000093751-26-000397	3	3	CI	0	H	OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax	us-gaap/2026	Foreign currency translation, net of related taxes	0
+0000093751-26-000397	3	4	CI	0	H	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax	us-gaap/2026	Net unrealized gains on available-for-sale securities, net of reclassification adjustment and net of related taxes	0
+0000093751-26-000397	3	5	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax	us-gaap/2026	Net unrealized gains (losses) on cash flow hedges, net of related taxes	0
+0000093751-26-000397	3	6	CI	0	H	OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax	us-gaap/2026	Net unrealized losses on retirement plans, net of related taxes of $(1) and $0, respectively	1
+0000093751-26-000397	3	7	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive (loss) income	0
+0000093751-26-000397	3	8	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Total comprehensive income	0
+0000093751-26-000397	4	1	CI	1	H	OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax	us-gaap/2026	Foreign currency translation, taxes	0
+0000093751-26-000397	4	2	CI	1	H	OtherComprehensiveIncomeLossChangeInNetUnrealizedGainLossOnAfsSecuritiesNetOfReclassAndExpectedLossFromOttiRelatedTaxes	0000093751-26-000397	Change in net unrealized gains (losses) on available-for-sale securities, taxes	0
+0000093751-26-000397	4	3	CI	1	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationTax	us-gaap/2026	Change in net unrealized gains (losses) on cash flow hedges, taxes	0
+0000093751-26-000397	4	4	CI	1	H	OtherComprehensiveIncomeLossMinimumPensionLiabilityNetAdjustmentTax	0000093751-26-000397	Change in unrealized gains (losses) on retirement plans, taxes	0
+0000093751-26-000397	4	5	CI	1	H	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax	us-gaap/2026	Net unrealized gains on available-for-sale securities, net of reclassification adjustment and net of related taxes	0
+0000093751-26-000397	4	6	CI	1	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax	us-gaap/2026	Net unrealized gains (losses) on cash flow hedges, net of related taxes	0
+0000093751-26-000397	4	7	CI	1	H	OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax	us-gaap/2026	Net unrealized losses on retirement plans, net of related taxes of $(1) and $0, respectively	1
+0000093751-26-000397	5	10	BS	0	H	CashAndDueFromBanks	us-gaap/2026	Cash and due from banks	0
+0000093751-26-000397	5	11	BS	0	H	InterestBearingDepositsInBanks	us-gaap/2026	Interest-bearing deposits with banks	0
+0000093751-26-000397	5	12	BS	0	H	SecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Securities purchased under resale agreements	0
+0000093751-26-000397	5	13	BS	0	H	TradingSecurities	us-gaap/2026	Trading account assets	0
+0000093751-26-000397	5	14	BS	0	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Investment securities available-for-sale	0
+0000093751-26-000397	5	15	BS	0	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Investment securities held-to-maturity (fair value of $31,104 and $34,166)	0
+0000093751-26-000397	5	16	BS	0	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Loans (less allowance for credit losses on loans of $161 and $193)	0
+0000093751-26-000397	5	17	BS	0	H	PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization	us-gaap/2026	Premises and equipment (net of accumulated depreciation of $7,273 and $7,046)	0
+0000093751-26-000397	5	18	BS	0	H	AccruedInvestmentIncomeReceivable	us-gaap/2026	Accrued interest and fees receivable	0
+0000093751-26-000397	5	19	BS	0	H	Goodwill	us-gaap/2026	Goodwill	0
+0000093751-26-000397	5	20	BS	0	H	FiniteLivedIntangibleAssetsNet	us-gaap/2026	Other intangible assets	0
+0000093751-26-000397	5	21	BS	0	H	OtherAssets	us-gaap/2026	Other assets	0
+0000093751-26-000397	5	22	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0000093751-26-000397	5	25	BS	0	H	NoninterestBearingDepositLiabilities	us-gaap/2026	Non-interest-bearing	0
+0000093751-26-000397	5	26	BS	0	H	InterestBearingDepositLiabilitiesDomestic	us-gaap/2026	Interest-bearing - U.S.	0
+0000093751-26-000397	5	27	BS	0	H	InterestBearingDepositLiabilitiesForeign	us-gaap/2026	Interest-bearing - non-U.S.	0
+0000093751-26-000397	5	28	BS	0	H	Deposits	us-gaap/2026	Total deposits	0
+0000093751-26-000397	5	29	BS	0	H	SecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2026	Securities sold under repurchase agreements	0
+0000093751-26-000397	5	30	BS	0	H	OtherShortTermBorrowings	us-gaap/2026	Other short-term borrowings	0
+0000093751-26-000397	5	31	BS	0	H	AccruedLiabilitiesCurrentAndNoncurrent	us-gaap/2026	Accrued expenses and other liabilities	0
+0000093751-26-000397	5	32	BS	0	H	LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities	us-gaap/2026	Long-term debt	0
+0000093751-26-000397	5	33	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0000093751-26-000397	5	34	BS	0	H	CommitmentsAndContingencies	us-gaap/2026	Commitments, guarantees and contingencies (Notes 9 and 10)	0
+0000093751-26-000397	5	36	BS	0	H	PreferredStockValue	us-gaap/2026	Preferred stock, no par, 3,500,000 shares authorized:	0
+0000093751-26-000397	5	37	BS	0	H	CommonStockValue	us-gaap/2026	Common stock, $1 par, 750,000,000 shares authorized: 503,879,642 and 503,879,642 shares issued, and 282,217,819 and 288,766,452 shares outstanding	0
+0000093751-26-000397	5	38	BS	0	H	AdditionalPaidInCapital	us-gaap/2026	Surplus	0
+0000093751-26-000397	5	39	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0000093751-26-000397	5	40	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive income (loss)	0
+0000093751-26-000397	5	41	BS	0	H	TreasuryStockCommonValue	us-gaap/2026	Treasury stock, at cost (229,177,092 and 224,801,735 shares)	1
+0000093751-26-000397	5	42	BS	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Total shareholders equity	0
+0000093751-26-000397	5	43	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities and shareholders' equity	0
+0000093751-26-000397	6	10	BS	1	H	HeldToMaturitySecuritiesFairValue	us-gaap/2026	Investment securities held-to-maturity	0
+0000093751-26-000397	6	11	BS	1	H	FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Allowance for credit losses on loans	0
+0000093751-26-000397	6	12	BS	1	H	PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAccumulatedDepreciationAndAmortization	us-gaap/2026	Accumulated depreciation	0
+0000093751-26-000397	6	14	BS	1	H	PreferredStockSharesAuthorized	us-gaap/2026	Preferred stock authorized (in shares)	0
+0000093751-26-000397	6	15	BS	1	H	PreferredStockSharesIssued	us-gaap/2026	Preferred stock, shares issued (in shares)	0
+0000093751-26-000397	6	16	BS	1	H	PreferredStockSharesOutstanding	us-gaap/2026	Preferred stock, shares outstanding (in shares)	0
+0000093751-26-000397	6	17	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock, par value (in dollars per share)	0
+0000093751-26-000397	6	18	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common stock, shares authorized (in shares)	0
+0000093751-26-000397	6	19	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock, shares issued (in shares)	0
+0000093751-26-000397	6	20	BS	1	H	CommonStockSharesOutstanding	us-gaap/2026	Common stock, shares outstanding (in shares)	0
+0000093751-26-000397	6	21	BS	1	H	TreasuryStockCommonShares	us-gaap/2026	Treasury stock (in shares)	0
+0000093751-26-000397	7	12	EQ	0	H	StockholdersEquity	us-gaap/2026	Beginning balance	0
+0000093751-26-000397	7	13	EQ	0	H	CommonStockSharesIssued	us-gaap/2026	Beginning balance (shares)	0
+0000093751-26-000397	7	14	EQ	0	H	TreasuryStockCommonShares	us-gaap/2026	Treasury stock, beginning balance (in shares)	0
+0000093751-26-000397	7	15	EQ	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000093751-26-000397	7	16	EQ	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income (loss)	0
+0000093751-26-000397	7	17	EQ	0	H	StockIssuedDuringPeriodValueNewIssues	us-gaap/2026	Preferred stock issued	0
+0000093751-26-000397	7	19	EQ	0	H	DividendsCommonStockCash	us-gaap/2026	Common stock dividends	1
+0000093751-26-000397	7	20	EQ	0	H	DividendsPreferredStockCash	us-gaap/2026	Preferred stock dividends	1
+0000093751-26-000397	7	21	EQ	0	H	TreasuryStockValueAcquiredParValueMethod	us-gaap/2026	Common stock acquired	1
+0000093751-26-000397	7	22	EQ	0	H	TreasuryStockSharesAcquired	us-gaap/2026	Common stock acquired (shares)	0
+0000093751-26-000397	7	23	EQ	0	H	StockIssuedDuringPeriodValueStockOptionsExercised	us-gaap/2026	Common stock awards exercised	0
+0000093751-26-000397	7	24	EQ	0	H	StockIssuedDuringPeriodSharesStockOptionsExercised	us-gaap/2026	Common stock awards exercised (in shares)	1
+0000093751-26-000397	7	25	EQ	0	H	StockholdersEquityOther	us-gaap/2026	Other	1
+0000093751-26-000397	7	26	EQ	0	H	StockholdersEquityOtherShares	us-gaap/2026	Other (shares)	1
+0000093751-26-000397	7	27	EQ	0	H	StockholdersEquity	us-gaap/2026	Ending balance	0
+0000093751-26-000397	7	28	EQ	0	H	CommonStockSharesIssued	us-gaap/2026	Ending balance (shares)	0
+0000093751-26-000397	7	29	EQ	0	H	TreasuryStockCommonShares	us-gaap/2026	Treasury stock, ending balance (in shares)	0
+0000093751-26-000397	8	1	EQ	1	H	CommonStockDividendsPerShareDeclared	us-gaap/2026	Cash dividends declared (in USD per share)	0
+0000093751-26-000397	9	2	CF	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000093751-26-000397	9	4	CF	0	H	DeferredIncomeTaxExpenseBenefit	us-gaap/2026	Deferred income tax	0
+0000093751-26-000397	9	5	CF	0	H	AmortizationOfIntangibleAssets	us-gaap/2026	Amortization of other intangible assets	0
+0000093751-26-000397	9	6	CF	0	H	NoncashAdjustmentsForDepreciationAmortizationAccretion	0000093751-26-000397	Other non-cash adjustments for depreciation, amortization and accretion, net	0
+0000093751-26-000397	9	7	CF	0	H	RealizedInvestmentGainsLosses	us-gaap/2026	Gains related to investment securities, net	1
+0000093751-26-000397	9	8	CF	0	H	FinancingReceivableExcludingAccruedInterestCreditLossExpenseReversal	us-gaap/2026	Provision for credit losses	0
+0000093751-26-000397	9	9	CF	0	H	IncreaseDecreaseInTradingSecurities	us-gaap/2026	Change in trading account assets, net	1
+0000093751-26-000397	9	10	CF	0	H	IncreaseDecreaseInOtherReceivables	us-gaap/2026	Change in accrued interest and fees receivable, net	1
+0000093751-26-000397	9	11	CF	0	H	IncreaseDecreaseInCashCollateralForLoanedSecurities	us-gaap/2026	Change in collateral deposits, net	0
+0000093751-26-000397	9	12	CF	0	H	UnrealizedGainLossOnDerivatives	us-gaap/2026	Change in unrealized losses on foreign exchange derivatives, net	1
+0000093751-26-000397	9	13	CF	0	H	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2026	Change in other assets, net	1
+0000093751-26-000397	9	14	CF	0	H	IncreaseDecreaseInOtherOperatingLiabilities	us-gaap/2026	Change in accrued expenses and other liabilities, net	0
+0000093751-26-000397	9	15	CF	0	H	OtherNoncashIncomeExpense	us-gaap/2026	Other, net	1
+0000093751-26-000397	9	16	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash used in operating activities	0
+0000093751-26-000397	9	18	CF	0	H	ProceedsFromPaymentsForInInterestBearingDepositsInBanks	us-gaap/2026	Net increase in interest-bearing deposits with banks	0
+0000093751-26-000397	9	19	CF	0	H	NetIncreaseDecreaseInFederalFundsSoldAndSecuritiesPurchasedUnderResaleAgreements	0000093751-26-000397	Net increase in securities purchased under resale agreements	0
+0000093751-26-000397	9	20	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2026	Proceeds from sales of available-for-sale securities	0
+0000093751-26-000397	9	21	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities	us-gaap/2026	Proceeds from maturities of available-for-sale securities	0
+0000093751-26-000397	9	22	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2026	Purchases of available-for-sale securities	1
+0000093751-26-000397	9	23	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2026	Proceeds from maturities of held-to-maturity securities	0
+0000093751-26-000397	9	24	CF	0	H	ProceedsFromSaleOfLoansReceivable	us-gaap/2026	Sale of loans	0
+0000093751-26-000397	9	25	CF	0	H	PaymentsToAcquireLoansAndLeasesHeldForInvestment	us-gaap/2026	Net increase in loans	1
+0000093751-26-000397	9	26	CF	0	H	PaymentsToAcquireOtherInvestments	us-gaap/2026	Purchases of equity investments and other long-term assets	1
+0000093751-26-000397	9	27	CF	0	H	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2026	Purchases of premises and equipment, net	1
+0000093751-26-000397	9	28	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2026	Other, net	1
+0000093751-26-000397	9	29	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash used in investing activities	0
+0000093751-26-000397	9	31	CF	0	H	IncreaseDecreaseInTimeDeposits	us-gaap/2026	Net decrease in time deposits	0
+0000093751-26-000397	9	32	CF	0	H	IncreaseDecreaseInOtherDeposits	us-gaap/2026	Net increase in all other deposits	0
+0000093751-26-000397	9	33	CF	0	H	SecuritiesSoldUnderRepurchaseAgreementNet	0000093751-26-000397	Net decrease in securities sold under repurchase agreements	0
+0000093751-26-000397	9	34	CF	0	H	NetDecreaseIncreaseInOtherShortTermBorrowings	0000093751-26-000397	Net increase in other short-term borrowings	0
+0000093751-26-000397	9	35	CF	0	H	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2026	Proceeds from issuance of long-term debt, net of issuance costs	0
+0000093751-26-000397	9	36	CF	0	H	RepaymentsOfLongTermDebtAndCapitalSecurities	us-gaap/2026	Payments for long-term debt and obligations under finance leases	1
+0000093751-26-000397	9	37	CF	0	H	ProceedsFromIssuanceOfPreferredStockAndPreferenceStock	us-gaap/2026	Proceeds from issuance of preferred stock, net of issuance costs	0
+0000093751-26-000397	9	38	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2026	Repurchases of common stock	1
+0000093751-26-000397	9	39	CF	0	H	RepurchasesOfCommonStockForEmployeeTaxWithholding	0000093751-26-000397	Repurchases of common stock for employee tax withholding	1
+0000093751-26-000397	9	40	CF	0	H	PaymentsOfDividends	us-gaap/2026	Payments for cash dividends	1
+0000093751-26-000397	9	41	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	Other, net	0
+0000093751-26-000397	9	42	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by financing activities	0
+0000093751-26-000397	9	43	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Net (decrease) increase in cash and due from banks	0
+0000093751-26-000397	9	44	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks at beginning of period	0
+0000093751-26-000397	9	45	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks at end of period	0
+0000093751-26-000397	9	47	CF	0	H	InterestPaidNet	us-gaap/2026	Interest paid	0
+0000093751-26-000397	9	48	CF	0	H	IncomeTaxesPaidNet	us-gaap/2026	Income taxes paid, net	0
+0000316709-26-000031	2	10	IS	0	H	InterestIncomeOperating	us-gaap/2026	Interest revenue	0
+0000316709-26-000031	2	11	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	1
+0000316709-26-000031	2	12	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest revenue	0
+0000316709-26-000031	2	13	IS	0	H	RevenueFromContractWithCustomerExcludingAssessedTax	us-gaap/2026	Revenues from contracts with customers	0
+0000316709-26-000031	2	14	IS	0	H	Revenues	us-gaap/2026	Total net revenues	0
+0000316709-26-000031	2	16	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Compensation and benefits	0
+0000316709-26-000031	2	17	IS	0	H	ProfessionalFees	us-gaap/2026	Professional services	0
+0000316709-26-000031	2	18	IS	0	H	OccupancyNet	us-gaap/2026	Occupancy and equipment	0
+0000316709-26-000031	2	19	IS	0	H	MarketingAndAdvertisingExpense	us-gaap/2026	Advertising and market development	0
+0000316709-26-000031	2	20	IS	0	H	Communication	us-gaap/2026	Communications	0
+0000316709-26-000031	2	21	IS	0	H	DepreciationAndAmortizationExcludingAmortizationOfIntangibleAssets	0000316709-26-000031	Depreciation and amortization	0
+0000316709-26-000031	2	22	IS	0	H	AmortizationOfIntangibleAssets	us-gaap/2026	Amortization of acquired intangible assets	0
+0000316709-26-000031	2	23	IS	0	H	RegulatoryFeesAndAssessments	0000316709-26-000031	Regulatory fees and assessments	0
+0000316709-26-000031	2	24	IS	0	H	OtherExpenses	us-gaap/2026	Other	0
+0000316709-26-000031	2	25	IS	0	H	NoninterestExpense	us-gaap/2026	Total expenses excluding interest	0
+0000316709-26-000031	2	26	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Income before taxes on income	0
+0000316709-26-000031	2	27	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Taxes on income	0
+0000316709-26-000031	2	28	IS	0	H	NetIncomeLoss	us-gaap/2026	Net Income	0
+0000316709-26-000031	2	29	IS	0	H	PreferredStockDividendsAndOtherAdjustments	us-gaap/2026	Preferred stock dividends and other	0
+0000316709-26-000031	2	30	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Net Income Available to Common Stockholders	0
+0000316709-26-000031	2	32	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Basic (in shares)	0
+0000316709-26-000031	2	33	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Diluted (in shares)	0
+0000316709-26-000031	2	35	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Basic (in USD per share)	0
+0000316709-26-000031	2	36	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted (in USD per share)	0
+0000316709-26-000031	3	1	CI	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000316709-26-000031	3	4	CI	0	H	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodBeforeTax	us-gaap/2026	Net unrealized gain (loss)	0
+0000316709-26-000031	3	5	CI	0	H	OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesBeforeTax	us-gaap/2026	Other reclassifications included in other revenue	1
+0000316709-26-000031	3	7	CI	0	H	OtherComprehensiveIncomeLossHeldToMaturitySecuritiesAvailableForSaleTransferToHeldToMaturityAdjustmentFromAOCIForAmortizationOfGainLossBeforeTax	0000316709-26-000031	Amortization of amounts previously recorded upon transfer to held to maturity from available for sale	1
+0000316709-26-000031	3	9	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax	us-gaap/2026	Net unrealized gain (loss)	0
+0000316709-26-000031	3	10	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax	us-gaap/2026	Reclassifications included in interest revenue	1
+0000316709-26-000031	3	11	CI	0	H	OtherComprehensiveIncomeLossOtherBeforeTax	0000316709-26-000031	Other	0
+0000316709-26-000031	3	12	CI	0	H	OtherComprehensiveIncomeLossBeforeTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income (loss), before tax	0
+0000316709-26-000031	3	13	CI	0	H	OtherComprehensiveIncomeLossTaxPortionAttributableToParent1	us-gaap/2026	Income tax effect	1
+0000316709-26-000031	3	14	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income (loss), net of tax	0
+0000316709-26-000031	3	15	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive Income (Loss)	0
+0000316709-26-000031	4	8	BS	0	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and cash equivalents (including resale agreements of $600 at June 30, 2026)	0
+0000316709-26-000031	4	9	BS	0	H	CashAndSecuritiesSegregatedUnderFederalAndOtherRegulations	us-gaap/2026	Cash and investments segregated and on deposit for regulatory purposes (including resale agreements of $12,636 and $16,901 at June 30, 2026 and December 31, 2025, respectively)	0
+0000316709-26-000031	4	10	BS	0	H	ReceivablesFromBrokersDealersAndClearingOrganizations	us-gaap/2026	Receivables from brokers, dealers, and clearing organizations	0
+0000316709-26-000031	4	11	BS	0	H	ReceivablesFromCustomers	us-gaap/2026	Receivables from brokerage clients  net	0
+0000316709-26-000031	4	12	BS	0	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Available for sale securities (amortized cost of $66,312 and $66,225 at June 30, 2026 and December 31, 2025, respectively; including assets pledged of $760 and $281, respectively)	0
+0000316709-26-000031	4	13	BS	0	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held to maturity securities (including assets pledged of $3,933 and $1,270 at June 30, 2026 and December 31, 2025, respectively)	0
+0000316709-26-000031	4	14	BS	0	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Bank loans  net	0
+0000316709-26-000031	4	15	BS	0	H	PropertyPlantAndEquipmentAndFinanceLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization	us-gaap/2026	Equipment, office facilities, and property  net	0
+0000316709-26-000031	4	16	BS	0	H	Goodwill	us-gaap/2026	Goodwill	0
+0000316709-26-000031	4	17	BS	0	H	IntangibleAssetsNetExcludingGoodwill	us-gaap/2026	Acquired intangible assets  net	0
+0000316709-26-000031	4	18	BS	0	H	OtherAssets	us-gaap/2026	Other assets	0
+0000316709-26-000031	4	19	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0000316709-26-000031	4	21	BS	0	H	Deposits	us-gaap/2026	Bank deposits	0
+0000316709-26-000031	4	22	BS	0	H	PayablesToBrokerDealersAndClearingOrganizations	srt/2026	Payables to brokers, dealers, and clearing organizations	0
+0000316709-26-000031	4	23	BS	0	H	PayablesToCustomers	srt/2026	Payables to brokerage clients	0
+0000316709-26-000031	4	24	BS	0	H	AccruedLiabilitiesCurrentAndNoncurrent	us-gaap/2026	Accrued expenses and other liabilities	0
+0000316709-26-000031	4	25	BS	0	H	OtherShortTermBorrowings	us-gaap/2026	Other short-term borrowings	0
+0000316709-26-000031	4	26	BS	0	H	AdvancesFromFederalHomeLoanBanks	us-gaap/2026	Federal Home Loan Bank borrowings	0
+0000316709-26-000031	4	27	BS	0	H	LongTermDebtAndCapitalLeaseObligations	us-gaap/2026	Long-term debt	0
+0000316709-26-000031	4	28	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0000316709-26-000031	4	30	BS	0	H	PreferredStockValue	us-gaap/2026	Preferred stock  $.01 par value per share; aggregate liquidation preference of $6,315 and $6,871 at June 30, 2026 and December 31, 2025, respectively	0
+0000316709-26-000031	4	31	BS	0	H	CommonStockValue	us-gaap/2026	Common stock	0
+0000316709-26-000031	4	32	BS	0	H	AdditionalPaidInCapital	us-gaap/2026	Additional paid-in capital	0
+0000316709-26-000031	4	33	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0000316709-26-000031	4	34	BS	0	H	TreasuryStockCommonValue	us-gaap/2026	Treasury stock, at cost  346,069,683 and 315,863,800 shares at June 30, 2026 and December 31, 2025, respectively	1
+0000316709-26-000031	4	35	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive loss	0
+0000316709-26-000031	4	36	BS	0	H	StockholdersEquity	us-gaap/2026	Total stockholders equity	0
+0000316709-26-000031	4	37	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities and stockholders equity	0
+0000316709-26-000031	5	14	BS	1	H	SecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Resale agreements	0
+0000316709-26-000031	5	15	BS	1	H	DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Amortized cost of available for sale securities	0
+0000316709-26-000031	5	16	BS	1	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Available for sale securities, assets pledged	0
+0000316709-26-000031	5	17	BS	1	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held to maturity securities, assets pledged	0
+0000316709-26-000031	5	18	BS	1	H	PreferredStockParOrStatedValuePerShare	us-gaap/2026	Preferred stock, par value (in USD per share)	0
+0000316709-26-000031	5	19	BS	1	H	PreferredStockLiquidationPreferenceValue	us-gaap/2026	Preferred stock, aggregate liquidation preference	0
+0000316709-26-000031	5	20	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common stock, shares authorized (in shares)	0
+0000316709-26-000031	5	21	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock, par value (in USD per share)	0
+0000316709-26-000031	5	22	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock, shares issued (in shares)	0
+0000316709-26-000031	5	23	BS	1	H	TreasuryStockCommonShares	us-gaap/2026	Treasury stock (in shares)	0
+0000316709-26-000031	6	16	EQ	0	H	StockholdersEquity	us-gaap/2026	Balance at beginning of period	0
+0000316709-26-000031	6	17	EQ	0	H	CommonStockSharesOutstanding	us-gaap/2026	Beginning balance (in shares)	0
+0000316709-26-000031	6	18	EQ	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000316709-26-000031	6	19	EQ	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income (loss), net of tax	0
+0000316709-26-000031	6	20	EQ	0	H	StockAndWarrantsIssuedDuringPeriodValuePreferredStockAndWarrants	us-gaap/2026	Issuance of preferred stock, net	0
+0000316709-26-000031	6	21	EQ	0	H	StockRedeemedOrCalledDuringPeriodValue	us-gaap/2026	Redemption of preferred stock	1
+0000316709-26-000031	6	22	EQ	0	H	DividendsPreferredStockCash	us-gaap/2026	Dividends declared on preferred stock	1
+0000316709-26-000031	6	23	EQ	0	H	DividendsCommonStockCash	us-gaap/2026	Dividends declared on common stock	1
+0000316709-26-000031	6	24	EQ	0	H	TreasuryStockSharesAcquired	us-gaap/2026	Repurchase of nonvoting common stock, inclusive of tax (in shares)	0
+0000316709-26-000031	6	25	EQ	0	H	TreasuryStockValueAcquiredCostMethod	us-gaap/2026	Repurchase of stock, inclusive of tax	1
+0000316709-26-000031	6	26	EQ	0	H	StockIssuedDuringPeriodSharesConversionOfConvertibleSecurities	us-gaap/2026	Conversion of nonvoting common stock to common stock (in shares)	0
+0000316709-26-000031	6	27	EQ	0	H	StockIssuedDuringPeriodValueConversionOfConvertibleSecurities	us-gaap/2026	Conversion of nonvoting common stock to common stock	0
+0000316709-26-000031	6	28	EQ	0	H	StockOptionExercisesAndOther	0000316709-26-000031	Stock option exercises and other	0
+0000316709-26-000031	6	29	EQ	0	H	AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue	us-gaap/2026	Share-based compensation	0
+0000316709-26-000031	6	30	EQ	0	H	StockholdersEquityOther	us-gaap/2026	Other	1
+0000316709-26-000031	6	31	EQ	0	H	StockholdersEquity	us-gaap/2026	Balance at end of period	0
+0000316709-26-000031	6	32	EQ	0	H	CommonStockSharesOutstanding	us-gaap/2026	Ending balance (in shares)	0
+0000316709-26-000031	7	1	EQ	1	H	CommonStockDividendsPerShareDeclared	us-gaap/2026	Dividends declared on common stock (in USD per share)	0
+0000316709-26-000031	8	2	CF	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0000316709-26-000031	8	4	CF	0	H	ShareBasedCompensation	us-gaap/2026	Share-based compensation	0
+0000316709-26-000031	8	5	CF	0	H	DepreciationAndAmortizationExcludingAmortizationOfIntangibleAssets	0000316709-26-000031	Depreciation and amortization	0
+0000316709-26-000031	8	6	CF	0	H	AmortizationOfIntangibleAssets	us-gaap/2026	Amortization of acquired intangible assets	0
+0000316709-26-000031	8	7	CF	0	H	DeferredIncomeTaxExpenseBenefit	us-gaap/2026	Provision (benefit) for deferred income taxes	0
+0000316709-26-000031	8	8	CF	0	H	AccretionAmortizationOfDiscountsAndPremiumsInvestments	us-gaap/2026	Premium amortization, net, on available for sale and held to maturity securities	1
+0000316709-26-000031	8	9	CF	0	H	OtherNoncashIncomeExpense	us-gaap/2026	Other	1
+0000316709-26-000031	8	11	CF	0	H	IncreaseDecreaseOfRestrictedInvestments	us-gaap/2026	Investments segregated and on deposit for regulatory purposes	1
+0000316709-26-000031	8	12	CF	0	H	IncreaseDecreaseInBrokerageReceivables	us-gaap/2026	Receivables from brokers, dealers, and clearing organizations	1
+0000316709-26-000031	8	13	CF	0	H	IncreaseDecreaseInReceivablesFromBrokerageClients	0000316709-26-000031	Receivables from brokerage clients	1
+0000316709-26-000031	8	14	CF	0	H	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2026	Other assets	1
+0000316709-26-000031	8	15	CF	0	H	IncreaseDecreaseInPayablesToBrokerDealers	us-gaap/2026	Payables to brokers, dealers, and clearing organizations	0
+0000316709-26-000031	8	16	CF	0	H	IncreaseDecreaseInPayablesToCustomers	us-gaap/2026	Payables to brokerage clients	0
+0000316709-26-000031	8	17	CF	0	H	IncreaseDecreaseInAccruedLiabilities	us-gaap/2026	Accrued expenses and other liabilities	0
+0000316709-26-000031	8	18	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash provided by (used for) operating activities	0
+0000316709-26-000031	8	20	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2026	Purchases of available for sale securities	1
+0000316709-26-000031	8	21	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2026	Proceeds from sales of available for sale securities	0
+0000316709-26-000031	8	22	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities	us-gaap/2026	Principal payments on available for sale securities	0
+0000316709-26-000031	8	23	CF	0	H	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2026	Purchases of held to maturity securities	1
+0000316709-26-000031	8	24	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2026	Principal payments on held to maturity securities	0
+0000316709-26-000031	8	25	CF	0	H	PaymentsForProceedsFromLoansReceivable	us-gaap/2026	Net change in bank loans	1
+0000316709-26-000031	8	26	CF	0	H	PaymentsToAcquireBusinessesNetOfCashAcquired	us-gaap/2026	Cash paid for acquisition, net of cash acquired	1
+0000316709-26-000031	8	27	CF	0	H	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2026	Purchases of equipment, office facilities, and property	1
+0000316709-26-000031	8	28	CF	0	H	PaymentsToAcquireFederalHomeLoanBankStock	us-gaap/2026	Purchases of FHLB stock	1
+0000316709-26-000031	8	29	CF	0	H	ProceedsFromSaleOfFederalHomeLoanBankStock	us-gaap/2026	Proceeds from sales of FHLB stock	0
+0000316709-26-000031	8	30	CF	0	H	PaymentsToAcquireFederalReserveStock	us-gaap/2026	Purchases of Federal Reserve stock	1
+0000316709-26-000031	8	31	CF	0	H	ProceedsFromSaleOfFederalReserveStock	us-gaap/2026	Proceeds from sales of Federal Reserve stock	0
+0000316709-26-000031	8	32	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2026	Other investing activities	1
+0000316709-26-000031	8	33	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash provided by (used for) investing activities	0
+0000316709-26-000031	8	35	CF	0	H	IncreaseDecreaseInDeposits	us-gaap/2026	Net change in bank deposits	0
+0000316709-26-000031	8	36	CF	0	H	ProceedsFromFederalHomeLoanBankBorrowings	us-gaap/2026	Proceeds from FHLB borrowings	0
+0000316709-26-000031	8	37	CF	0	H	RepaymentsOfFederalHomeLoanBankBorrowings	us-gaap/2026	Repayments of FHLB borrowings	1
+0000316709-26-000031	8	38	CF	0	H	ProceedsFromOtherShortTermDebt	us-gaap/2026	Proceeds from other short-term borrowings	0
+0000316709-26-000031	8	39	CF	0	H	RepaymentsOfOtherShortTermDebt	us-gaap/2026	Repayments of other short-term borrowings	1
+0000316709-26-000031	8	40	CF	0	H	ProceedsFromIssuanceOfOtherLongTermDebt	us-gaap/2026	Issuances of long-term debt	0
+0000316709-26-000031	8	41	CF	0	H	RepaymentOfLongTermDebtAndFinanceLeases	0000316709-26-000031	Repayments of long-term debt	1
+0000316709-26-000031	8	42	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2026	Repurchases of common stock and nonvoting common stock	1
+0000316709-26-000031	8	43	CF	0	H	ProceedsFromIssuanceOfPreferredStockAndPreferenceStock	us-gaap/2026	Net proceeds from preferred stock offerings	0
+0000316709-26-000031	8	44	CF	0	H	PaymentsForRepurchaseOfPreferredStockAndPreferenceStock	us-gaap/2026	Redemption of preferred stock	1
+0000316709-26-000031	8	45	CF	0	H	PaymentsOfDividends	us-gaap/2026	Dividends paid	1
+0000316709-26-000031	8	46	CF	0	H	ProceedsFromStockOptionsExercised	us-gaap/2026	Proceeds from stock options exercised	0
+0000316709-26-000031	8	47	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	Other financing activities	0
+0000316709-26-000031	8	48	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by (used for) financing activities	0
+0000316709-26-000031	8	49	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Increase (Decrease) in Cash and Cash Equivalents, including Amounts Restricted	0
+0000316709-26-000031	8	50	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and Cash Equivalents, including Amounts Restricted at Beginning of Year	0
+0000316709-26-000031	8	51	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and Cash Equivalents, including Amounts Restricted at End of Period	0
+0000316709-26-000031	8	54	CF	0	H	NoncashChangesInCapitalExpendituresIncurredByNotYetPaid	0000316709-26-000031	Changes in accrued equipment, office facilities, and property purchases	0
+0000316709-26-000031	8	56	CF	0	H	NoncashTransactionCommonStockRepurchased	0000316709-26-000031	Common stock repurchased during the period but settled after period end	0
+0000316709-26-000031	8	59	CF	0	H	InterestPaidNet	us-gaap/2026	Interest	0
+0000316709-26-000031	8	60	CF	0	H	IncomeTaxesPaidNet	us-gaap/2026	Income taxes, net	0
+0000316709-26-000031	8	61	CF	0	H	OperatingLeasePayments	us-gaap/2026	Amounts included in the measurement of lease liabilities	0
+0000316709-26-000031	8	62	CF	0	H	RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability	us-gaap/2026	Leased assets obtained in exchange for new operating lease liabilities	0
+0000316709-26-000031	9	2	CF	1	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and cash equivalents (including resale agreements of $600 at June 30, 2026)	0
+0000316709-26-000031	9	3	CF	1	H	RestrictedCashAndCashEquivalents	us-gaap/2026	Restricted cash and cash equivalents amounts included in cash and investments segregated and on deposit for regulatory purposes	0
+0000316709-26-000031	9	4	CF	1	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Total cash and cash equivalents, including amounts restricted shown in the statement of cash flows	0
+0000886982-26-000297	2	2	IS	0	H	InvestmentBankingRevenue	us-gaap/2026	Investment banking	0
+0000886982-26-000297	2	3	IS	0	H	InvestmentManagement	0000886982-26-000297	Investment management	0
+0000886982-26-000297	2	4	IS	0	H	BrokerageCommissionsRevenue	us-gaap/2026	Commissions and fees	0
+0000886982-26-000297	2	5	IS	0	H	MarketMakingNet	0000886982-26-000297	Market making	0
+0000886982-26-000297	2	6	IS	0	H	OtherPrincipalTransactions	0000886982-26-000297	Other principal transactions	0
+0000886982-26-000297	2	7	IS	0	H	NoninterestIncome	us-gaap/2026	Total non-interest revenues	0
+0000886982-26-000297	2	8	IS	0	H	InterestAndDividendIncomeOperating	us-gaap/2026	Interest income	0
+0000886982-26-000297	2	9	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	0
+0000886982-26-000297	2	10	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest income	0
+0000886982-26-000297	2	11	IS	0	H	RevenuesNetOfInterestExpense	us-gaap/2026	Total net revenues	0
+0000886982-26-000297	2	12	IS	0	H	ProvisionForLoanLeaseAndOtherLosses	us-gaap/2026	Provision for credit losses	0
+0000886982-26-000297	2	14	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Compensation and benefits	0
+0000886982-26-000297	2	15	IS	0	H	TransactionBased	0000886982-26-000297	Transaction based	0
+0000886982-26-000297	2	16	IS	0	H	BusinessDevelopment	us-gaap/2026	Market development	0
+0000886982-26-000297	2	17	IS	0	H	CommunicationsAndInformationTechnology	us-gaap/2026	Communications and technology	0
+0000886982-26-000297	2	18	IS	0	H	DepreciationAndAmortization	us-gaap/2026	Depreciation and amortization	0
+0000886982-26-000297	2	19	IS	0	H	OccupancyNet	us-gaap/2026	Occupancy	0
+0000886982-26-000297	2	20	IS	0	H	ProfessionalFees	us-gaap/2026	Professional fees	0
+0000886982-26-000297	2	21	IS	0	H	OtherNoninterestExpense	us-gaap/2026	Other expenses	0
+0000886982-26-000297	2	22	IS	0	H	NoninterestExpense	us-gaap/2026	Total operating expenses	0
+0000886982-26-000297	2	23	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Pre-tax earnings/(loss)	0
+0000886982-26-000297	2	24	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Provision for taxes	0
+0000886982-26-000297	2	25	IS	0	H	NetIncomeLoss	us-gaap/2026	Net earnings	0
+0000886982-26-000297	2	26	IS	0	H	PreferredStockDividendsIncomeStatementImpact	us-gaap/2026	Preferred stock dividends	0
+0000886982-26-000297	2	27	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Net earnings applicable to common shareholders	0
+0000886982-26-000297	2	29	IS	0	H	EarningsPerShareExcludingNetEarningsAttributedToParticipatingSecuritiesBasic	0000886982-26-000297	Basic (in dollars per share)	0
+0000886982-26-000297	2	30	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted (in dollars per share)	0
+0000886982-26-000297	2	32	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Basic (in shares)	0
+0000886982-26-000297	2	33	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Diluted (in shares)	0
+0000886982-26-000297	3	1	CI	0	H	NetIncomeLoss	us-gaap/2026	Net earnings	0
+0000886982-26-000297	3	3	CI	0	H	OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax	us-gaap/2026	Currency translation	0
+0000886982-26-000297	3	4	CI	0	H	OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionAfterTaxAndReclassificationAdjustment	us-gaap/2026	Debt valuation adjustment	0
+0000886982-26-000297	3	5	CI	0	H	OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax	us-gaap/2026	Pension and postretirement liabilities	1
+0000886982-26-000297	3	6	CI	0	H	OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax	us-gaap/2026	Available-for-sale securities	0
+0000886982-26-000297	3	7	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax	us-gaap/2026	Cash flow hedges	0
+0000886982-26-000297	3	8	CI	0	H	OtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Other comprehensive income/(loss)	0
+0000886982-26-000297	3	9	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive income	0
+0000886982-26-000297	4	2	BS	0	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and cash equivalents	0
+0000886982-26-000297	4	4	BS	0	H	FederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Securities purchased under agreements to resell (includes $121,206 and $126,007 at fair value)	0
+0000886982-26-000297	4	5	BS	0	H	SecuritiesBorrowed	us-gaap/2026	Securities borrowed (includes $61,756 and $51,581 at fair value)	0
+0000886982-26-000297	4	6	BS	0	H	OtherReceivables	us-gaap/2026	Customer and other receivables (includes $292 and $315 at fair value)	0
+0000886982-26-000297	4	7	BS	0	H	TradingSecurities	us-gaap/2026	Trading assets (at fair value and includes $185,318 and $158,641 pledged as collateral)	0
+0000886982-26-000297	4	9	BS	0	H	AvailableForSaleSecuritiesDebtSecurities	us-gaap/2026	Available-for-sale securities (at fair value; amortized cost of $156,636 and $99,116)	0
+0000886982-26-000297	4	10	BS	0	H	DebtSecuritiesHeldToMaturityAmortizedCostAfterAllowanceForCreditLoss	us-gaap/2026	Held-to-maturity securities	0
+0000886982-26-000297	4	11	BS	0	H	OtherInvestments	us-gaap/2026	Other investments (includes $24,343 and $24,938 at fair value)	0
+0000886982-26-000297	4	12	BS	0	H	NotesReceivableNet	us-gaap/2026	Loans (net of allowance of $2,188 and $2,148, and includes $4,640 and $4,905 at fair value)	0
+0000886982-26-000297	4	13	BS	0	H	OtherAssets	us-gaap/2026	Other assets (includes $202 and $180 at fair value)	0
+0000886982-26-000297	4	14	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0000886982-26-000297	4	16	BS	0	H	Deposits	us-gaap/2026	Deposits (includes $90,249 and $76,569 at fair value)	0
+0000886982-26-000297	4	18	BS	0	H	SecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2026	Securities sold under agreements to repurchase (at fair value)	0
+0000886982-26-000297	4	19	BS	0	H	SecuritiesLoaned	us-gaap/2026	Securities loaned (includes $12,871 and $11,995 at fair value)	0
+0000886982-26-000297	4	20	BS	0	H	OtherSecuredFinancings	us-gaap/2026	Other secured financings (includes $34,865 and $27,833 at fair value)	0
+0000886982-26-000297	4	21	BS	0	H	CustomerAndOtherPayables	0000886982-26-000297	Customer and other payables	0
+0000886982-26-000297	4	22	BS	0	H	TradingLiabilities	us-gaap/2026	Trading liabilities (at fair value)	0
+0000886982-26-000297	4	23	BS	0	H	UnsecuredShortTermBorrowingsIncludingCurrentPortionOfUnsecuredLongTermBorrowings	0000886982-26-000297	Unsecured short-term borrowings	0
+0000886982-26-000297	4	24	BS	0	H	UnsecuredLongTermDebt	us-gaap/2026	Unsecured long-term borrowings (includes $144,703 and $112,683 at fair value)	0
+0000886982-26-000297	4	25	BS	0	H	OtherLiabilities	us-gaap/2026	Other liabilities (includes $264 and $111 at fair value)	0
+0000886982-26-000297	4	26	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0000886982-26-000297	4	27	BS	0	H	CommitmentsAndContingencies	us-gaap/2026	Commitments, contingencies and guarantees	0
+0000886982-26-000297	4	29	BS	0	H	PreferredStockValue	us-gaap/2026	Preferred stock; aggregate liquidation preference of $13,028 and $15,153	0
+0000886982-26-000297	4	30	BS	0	H	CommonStockValue	us-gaap/2026	Common stock; 936,341,620 and 931,995,446 shares issued, and 291,442,355 and 296,476,742 shares outstanding	0
+0000886982-26-000297	4	31	BS	0	H	ShareBasedAwards	0000886982-26-000297	Share-based awards	0
+0000886982-26-000297	4	32	BS	0	H	NonvotingCommonStock	0000886982-26-000297	Nonvoting common stock; no shares issued and outstanding	0
+0000886982-26-000297	4	33	BS	0	H	AdditionalPaidInCapital	us-gaap/2026	Additional paid-in capital	0
+0000886982-26-000297	4	34	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0000886982-26-000297	4	35	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive loss	0
+0000886982-26-000297	4	36	BS	0	H	TreasuryStockValue	us-gaap/2026	Stock held in treasury, at cost; 644,899,267 and 635,518,706 shares	1
+0000886982-26-000297	4	37	BS	0	H	StockholdersEquity	us-gaap/2026	Total shareholders equity	0
+0000886982-26-000297	4	38	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities and shareholders equity	0
+0000886982-26-000297	5	9	BS	1	H	FederalFundsSoldAndSecuritiesBorrowedOrPurchasedUnderAgreementsToResellFairValueDisclosure	us-gaap/2026	Securities purchased under agreements to resell at fair value	0
+0000886982-26-000297	5	10	BS	1	H	SecuritiesBorrowedFairValueDisclosure	us-gaap/2026	Securities borrowed at fair value	0
+0000886982-26-000297	5	11	BS	1	H	ReceivablesFairValueDisclosure	us-gaap/2026	Customer and other receivables at fair value	0
+0000886982-26-000297	5	12	BS	1	H	TradingAssetsIncludingPledge	0000886982-26-000297	Trading assets, at fair value pledged as collateral	0
+0000886982-26-000297	5	13	BS	1	H	AvailableForSaleDebtSecuritiesAmortizedCostBasis	us-gaap/2026	Available-for-sale securities, amortized cost	0
+0000886982-26-000297	5	14	BS	1	H	OtherInvestmentsFairValueDisclosure	0000886982-26-000297	Other investments, fair value	0
+0000886982-26-000297	5	15	BS	1	H	FinancingReceivableAllowanceForCreditLosses	us-gaap/2026	Loans, allowance	0
+0000886982-26-000297	5	16	BS	1	H	LoansReceivableFairValueDisclosure	us-gaap/2026	Loans at fair value	0
+0000886982-26-000297	5	17	BS	1	H	OtherAssetsFairValueDisclosure	us-gaap/2026	Other assets at fair value	0
+0000886982-26-000297	5	18	BS	1	H	DepositsFairValueDisclosure	us-gaap/2026	Deposits at fair value	0
+0000886982-26-000297	5	19	BS	1	H	SecuritiesLoanedOrSoldUnderAgreementsToRepurchaseFairValueDisclosure	us-gaap/2026	Securities loaned at fair value	0
+0000886982-26-000297	5	20	BS	1	H	OtherSecuredFinancingsFairValueDisclosure	0000886982-26-000297	Other secured financings at fair value	0
+0000886982-26-000297	5	21	BS	1	H	ShorttermDebtFairValue	us-gaap/2026	Unsecured short-term borrowing at fair value	0
+0000886982-26-000297	5	22	BS	1	H	LongTermDebtFairValue	us-gaap/2026	Unsecured long-term borrowings at fair value	0
+0000886982-26-000297	5	23	BS	1	H	OtherLiabilitiesFairValueDisclosure	us-gaap/2026	Other liabilities at fair value	0
+0000886982-26-000297	5	24	BS	1	H	PreferredStockLiquidationPreferenceValue	us-gaap/2026	Preferred stock, liquidation preference	0
+0000886982-26-000297	5	25	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock, shares issued (in shares)	0
+0000886982-26-000297	5	26	BS	1	H	CommonStockSharesOutstanding	us-gaap/2026	Common stock, shares outstanding (in shares)	0
+0000886982-26-000297	5	27	BS	1	H	TreasuryStockCommonAndPreferredShares	0000886982-26-000297	Stock held in treasury (in shares)	0
+0000886982-26-000297	6	13	EQ	0	H	StockholdersEquity	us-gaap/2026	Beginning balance	0
+0000886982-26-000297	6	14	EQ	0	H	StockIssuedDuringPeriodValueNewIssues	us-gaap/2026	Issued	0
+0000886982-26-000297	6	15	EQ	0	H	StockRedeemedOrCalledDuringPeriodValue	us-gaap/2026	Redeemed	1
+0000886982-26-000297	6	16	EQ	0	H	IssuanceAndAmortizationOfShareBasedAwards	0000886982-26-000297	Issuance and amortization of share-based awards	0
+0000886982-26-000297	6	17	EQ	0	H	StockIssuedDuringPeriodValueShareBasedCompensation	us-gaap/2026	Delivery of common stock underlying share-based awards	0
+0000886982-26-000297	6	18	EQ	0	H	StockIssuedDuringPeriodValueRestrictedStockAwardForfeitures	us-gaap/2026	Forfeiture of share-based awards	1
+0000886982-26-000297	6	19	EQ	0	H	CancellationOfShareBasedAwardsInSatisfactionOfWithholdingTaxRequirements	0000886982-26-000297	Cancellation of share-based awards in satisfaction of withholding tax requirements	1
+0000886982-26-000297	6	20	EQ	0	H	AdjustmentsToAdditionalPaidInCapitalStockIssuedIssuanceCosts	us-gaap/2026	Preferred stock issuance costs	1
+0000886982-26-000297	6	21	EQ	0	H	StockIssuedDuringPeriodValueAcquisitions	us-gaap/2026	Issuance of common stock in connection with acquisition	0
+0000886982-26-000297	6	22	EQ	0	H	TreasuryStockValueAcquiredCostMethod	us-gaap/2026	Repurchased	1
+0000886982-26-000297	6	23	EQ	0	H	StockIssuedDuringPeriodValueTreasuryStockReissued	us-gaap/2026	Reissued	0
+0000886982-26-000297	6	24	EQ	0	H	StockholdersEquityOther	us-gaap/2026	Other	1
+0000886982-26-000297	6	25	EQ	0	H	NetIncomeLoss	us-gaap/2026	Net earnings	0
+0000886982-26-000297	6	26	EQ	0	H	DividendsCommonStock	us-gaap/2026	Dividends and dividend equivalents declared on common stock and share-based awards	1
+0000886982-26-000297	6	27	EQ	0	H	DividendsPreferredStock	us-gaap/2026	Dividends declared on preferred stock	1
+0000886982-26-000297	6	28	EQ	0	H	PreferredStockRedemptionPremium	us-gaap/2026	Preferred stock redemption premium	1
+0000886982-26-000297	6	29	EQ	0	H	OtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Other comprehensive income/(loss)	0
+0000886982-26-000297	6	30	EQ	0	H	StockholdersEquity	us-gaap/2026	Ending balance	0
+0000886982-26-000297	7	2	CF	0	H	NetIncomeLoss	us-gaap/2026	Net earnings	0
+0000886982-26-000297	7	4	CF	0	H	DepreciationAndAmortization	us-gaap/2026	Depreciation and amortization	0
+0000886982-26-000297	7	5	CF	0	H	DeferredIncomeTaxExpenseBenefit	us-gaap/2026	Deferred income taxes	0
+0000886982-26-000297	7	6	CF	0	H	ShareBasedCompensation	us-gaap/2026	Share-based compensation	0
+0000886982-26-000297	7	7	CF	0	H	ProvisionForLoanLeaseAndOtherLosses	us-gaap/2026	Provision for credit losses	0
+0000886982-26-000297	7	9	CF	0	H	IncreaseDecreaseInCustomerAndOtherReceivablesAndPayablesNet	0000886982-26-000297	Customer and other receivables and payables, net	1
+0000886982-26-000297	7	10	CF	0	H	IncreaseDecreaseInCollateralizedTransactionsExcludingOtherSecuredFinancingsNet	0000886982-26-000297	Collateralized transactions (excluding other secured financings), net	1
+0000886982-26-000297	7	11	CF	0	H	IncreaseDecreaseInFinancialInstrumentsUsedInOperatingActivities	us-gaap/2026	Trading assets	1
+0000886982-26-000297	7	12	CF	0	H	IncreaseDecreaseInTradingLiabilities	us-gaap/2026	Trading liabilities	0
+0000886982-26-000297	7	13	CF	0	H	IncreaseDecreaseInLoansHeldForSale	us-gaap/2026	Loans held for sale, net	1
+0000886982-26-000297	7	14	CF	0	H	IncreaseDecreaseInOtherOperatingCapitalNet	us-gaap/2026	Other, net	1
+0000886982-26-000297	7	15	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash used for operating activities	0
+0000886982-26-000297	7	17	CF	0	H	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2026	Purchase of property, leasehold improvements and equipment	1
+0000886982-26-000297	7	18	CF	0	H	ProceedsFromSaleOfPropertyPlantAndEquipment	us-gaap/2026	Proceeds from sales of property, leasehold improvements and equipment	0
+0000886982-26-000297	7	19	CF	0	H	PaymentsForProceedsFromBusinessesAndInterestInAffiliates	us-gaap/2026	Net cash used for business acquisitions	1
+0000886982-26-000297	7	21	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2026	Purchases	1
+0000886982-26-000297	7	22	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2026	Proceeds from sales	0
+0000886982-26-000297	7	23	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0000886982-26-000297	7	25	CF	0	H	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2026	Purchases	1
+0000886982-26-000297	7	26	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0000886982-26-000297	7	28	CF	0	H	PaymentsToAcquireOtherInvestments	us-gaap/2026	Purchases	1
+0000886982-26-000297	7	29	CF	0	H	ProceedsFromSaleAndMaturityOfOtherInvestments	us-gaap/2026	Proceeds from sales, paydowns and maturities	0
+0000886982-26-000297	7	30	CF	0	H	PaymentsForProceedsFromLoansAndLeases	us-gaap/2026	Loans (excluding loans held for sale), net	1
+0000886982-26-000297	7	31	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash used for investing activities	0
+0000886982-26-000297	7	33	CF	0	H	ProceedsFromRepaymentsOfUnsecuredShortTermDebt	0000886982-26-000297	Unsecured short-term borrowings, net	1
+0000886982-26-000297	7	34	CF	0	H	ProceedsFromRepaymentsOfOtherSecuredShortTermDebt	0000886982-26-000297	Other secured financings (short-term), net	1
+0000886982-26-000297	7	35	CF	0	H	ProceedsFromIssuanceOfSecuredDebt	us-gaap/2026	Proceeds from issuance of other secured financings (long-term)	0
+0000886982-26-000297	7	36	CF	0	H	RepaymentsOfSecuredDebt	us-gaap/2026	Repayment of other secured financings (long-term), including the current portion	1
+0000886982-26-000297	7	37	CF	0	H	ProceedsFromIssuanceOfUnsecuredDebt	us-gaap/2026	Proceeds from issuance of unsecured long-term borrowings	0
+0000886982-26-000297	7	38	CF	0	H	RepaymentsOfUnsecuredDebt	us-gaap/2026	Repayment of unsecured long-term borrowings, including the current portion	1
+0000886982-26-000297	7	39	CF	0	H	PaymentsForProceedsFromDerivativeInstrumentFinancingActivities	us-gaap/2026	Derivative contracts with a financing element, net	1
+0000886982-26-000297	7	40	CF	0	H	IncreaseDecreaseInDeposits	us-gaap/2026	Deposits, net	0
+0000886982-26-000297	7	41	CF	0	H	PaymentsForRepurchaseOfPreferredStockAndPreferenceStock	us-gaap/2026	Preferred stock redemption	1
+0000886982-26-000297	7	42	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2026	Common stock repurchased	1
+0000886982-26-000297	7	43	CF	0	H	PaymentsRelatedToTaxWithholdingForShareBasedCompensation	us-gaap/2026	Settlement of share-based awards in satisfaction of withholding tax requirements	1
+0000886982-26-000297	7	44	CF	0	H	PaymentsOfDividends	us-gaap/2026	Dividends and dividend equivalents paid on common stock, preferred stock and share-based awards	1
+0000886982-26-000297	7	45	CF	0	H	ProceedsFromIssuanceOfPreferredStockAndPreferenceStock	us-gaap/2026	Proceeds from issuance of preferred stock, net of issuance costs	0
+0000886982-26-000297	7	46	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	Other financing, net	0
+0000886982-26-000297	7	47	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by financing activities	0
+0000886982-26-000297	7	48	CF	0	H	EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations	us-gaap/2026	Effect of exchange rate changes on cash and cash equivalents	0
+0000886982-26-000297	7	49	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Net increase/(decrease) in cash and cash equivalents	0
+0000886982-26-000297	7	50	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents, beginning balance	0
+0000886982-26-000297	7	51	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents, ending balance	0
+0000886982-26-000297	7	53	CF	0	H	InterestPaidNet	us-gaap/2026	Cash payments for interest, net of capitalized interest	0
+0000895421-26-000212	2	2	IS	0	H	InvestmentBankingRevenue	us-gaap/2026	Investment banking	0
+0000895421-26-000212	2	3	IS	0	H	TradingGainsLosses	us-gaap/2026	Trading	0
+0000895421-26-000212	2	4	IS	0	H	PrincipalInvestmentGainsLosses	us-gaap/2026	Investments	0
+0000895421-26-000212	2	5	IS	0	H	BrokerageCommissionsRevenue	us-gaap/2026	Commissions and fees	0
+0000895421-26-000212	2	6	IS	0	H	AssetManagementFees	0000895421-26-000212	Asset management	0
+0000895421-26-000212	2	7	IS	0	H	NoninterestIncomeOtherOperatingIncome	us-gaap/2026	Other	0
+0000895421-26-000212	2	8	IS	0	H	NoninterestIncome	us-gaap/2026	Total non-interest revenues	0
+0000895421-26-000212	2	9	IS	0	H	InterestAndDividendIncomeOperating	us-gaap/2026	Interest income	0
+0000895421-26-000212	2	10	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	0
+0000895421-26-000212	2	11	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest	0
+0000895421-26-000212	2	12	IS	0	H	RevenuesNetOfInterestExpense	us-gaap/2026	Net revenues	0
+0000895421-26-000212	2	13	IS	0	H	FinancingReceivableAndOffBalanceSheetCreditLossLiabilityCreditLossExpenseReversal	0000895421-26-000212	Provision for credit losses	0
+0000895421-26-000212	2	15	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Compensation and benefits	0
+0000895421-26-000212	2	16	IS	0	H	FloorBrokerageExchangeAndClearanceFees	us-gaap/2026	Brokerage, clearing and exchange fees	0
+0000895421-26-000212	2	17	IS	0	H	CommunicationsAndInformationTechnology	us-gaap/2026	Information processing and communications	0
+0000895421-26-000212	2	18	IS	0	H	ProfessionalFees	us-gaap/2026	Professional services	0
+0000895421-26-000212	2	19	IS	0	H	OccupancyNet	us-gaap/2026	Occupancy and equipment	0
+0000895421-26-000212	2	20	IS	0	H	MarketingAndAdvertisingExpense	us-gaap/2026	Marketing and business development	0
+0000895421-26-000212	2	21	IS	0	H	OtherNoninterestExpense	us-gaap/2026	Other	0
+0000895421-26-000212	2	22	IS	0	H	NoninterestExpense	us-gaap/2026	Total non-interest expenses	0
+0000895421-26-000212	2	23	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Income before provision for income taxes	0
+0000895421-26-000212	2	24	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Provision for income taxes	0
+0000895421-26-000212	2	25	IS	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0000895421-26-000212	2	26	IS	0	H	NetIncomeLossAttributableToNonredeemableNoncontrollingInterest	us-gaap/2026	Net income applicable to noncontrolling interests	0
+0000895421-26-000212	2	27	IS	0	H	NetIncomeLoss	us-gaap/2026	Net income applicable to Morgan Stanley	0
+0000895421-26-000212	2	28	IS	0	H	PreferredStockDividendsIncomeStatementImpact	us-gaap/2026	Preferred stock dividends	0
+0000895421-26-000212	2	29	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Earnings applicable to Morgan Stanley common shareholders	0
+0000895421-26-000212	2	31	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Basic (USD per share)	0
+0000895421-26-000212	2	32	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted (USD per share)	0
+0000895421-26-000212	2	34	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Basic (shares)	0
+0000895421-26-000212	2	35	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Diluted (shares)	0
+0000895421-26-000212	3	1	CI	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0000895421-26-000212	3	3	CI	0	H	OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax	us-gaap/2026	Foreign currency translation adjustments	0
+0000895421-26-000212	3	4	CI	0	H	OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax	us-gaap/2026	Change in net unrealized gains (losses) on available-for-sale securities	0
+0000895421-26-000212	3	5	CI	0	H	OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax	us-gaap/2026	Pension and other	1
+0000895421-26-000212	3	6	CI	0	H	OtherComprehensiveIncomeLossDebtValuationAdjustmentNetOfTax	0000895421-26-000212	Change in net debt valuation adjustment	0
+0000895421-26-000212	3	7	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax	us-gaap/2026	Net change in cash flow hedges	0
+0000895421-26-000212	3	8	CI	0	H	OtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Total other comprehensive income (loss)	0
+0000895421-26-000212	3	9	CI	0	H	ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Comprehensive income	0
+0000895421-26-000212	3	10	CI	0	H	NetIncomeLossAttributableToNonredeemableNoncontrollingInterest	us-gaap/2026	Net income applicable to noncontrolling interests	0
+0000895421-26-000212	3	11	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest	us-gaap/2026	Other comprehensive income (loss) applicable to noncontrolling interests	0
+0000895421-26-000212	3	12	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive income applicable to Morgan Stanley	0
+0000895421-26-000212	4	2	BS	0	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and cash equivalents	0
+0000895421-26-000212	4	3	BS	0	H	TradingAssetsFairValueDisclosure	0000895421-26-000212	Trading assets at fair value ($278,278 and $213,269 pledged as collateral)	0
+0000895421-26-000212	4	4	BS	0	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Available-for-sale at fair value (amortized cost of $107,761 and $112,522)	0
+0000895421-26-000212	4	5	BS	0	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held-to-maturity (fair value of $40,238 and $45,615)	0
+0000895421-26-000212	4	6	BS	0	H	SecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Securities purchased under agreements to resell (includes $109 and $ at fair value)	0
+0000895421-26-000212	4	7	BS	0	H	SecuritiesBorrowed	us-gaap/2026	Securities borrowed	0
+0000895421-26-000212	4	8	BS	0	H	OtherReceivables	us-gaap/2026	Customer and other receivables	0
+0000895421-26-000212	4	10	BS	0	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held for investment (net of allowance for credit losses of $1,248 and $1,132)	0
+0000895421-26-000212	4	11	BS	0	H	LoansReceivableHeldForSaleNetNotPartOfDisposalGroup	us-gaap/2026	Held for sale	0
+0000895421-26-000212	4	12	BS	0	H	Goodwill	us-gaap/2026	Goodwill	0
+0000895421-26-000212	4	13	BS	0	H	IntangibleAssetsNetExcludingGoodwill	us-gaap/2026	Intangible assets (net of accumulated amortization of $2,042 and $1,882)	0
+0000895421-26-000212	4	14	BS	0	H	OtherAssets	us-gaap/2026	Other assets	0
+0000895421-26-000212	4	15	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0000895421-26-000212	4	17	BS	0	H	Deposits	us-gaap/2026	Deposits (includes $8,647 and $8,755 at fair value)	0
+0000895421-26-000212	4	18	BS	0	H	FinancialInstrumentsSoldNotYetPurchasedAtFairValue	us-gaap/2026	Trading liabilities at fair value	0
+0000895421-26-000212	4	19	BS	0	H	SecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2026	Securities sold under agreements to repurchase (includes $887 and $696 at fair value)	0
+0000895421-26-000212	4	20	BS	0	H	SecuritiesLoaned	us-gaap/2026	Securities loaned	0
+0000895421-26-000212	4	21	BS	0	H	OtherSecuredFinancings	us-gaap/2026	Other secured financings (includes $19,461 and $16,871 at fair value)	0
+0000895421-26-000212	4	22	BS	0	H	Payables	0000895421-26-000212	Customer and other payables	0
+0000895421-26-000212	4	23	BS	0	H	AccruedLiabilitiesAndOtherLiabilities	us-gaap/2026	Other liabilities and accrued expenses	0
+0000895421-26-000212	4	24	BS	0	H	DebtLongtermAndShorttermCombinedAmount	us-gaap/2026	Borrowings (includes $147,514 and $132,479 at fair value)	0
+0000895421-26-000212	4	25	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0000895421-26-000212	4	26	BS	0	H	CommitmentsAndContingencies	us-gaap/2026	Commitments and contingent liabilities (see Note 13)	0
+0000895421-26-000212	4	28	BS	0	H	PreferredStockCarryingValue	0000895421-26-000212	Preferred stock	0
+0000895421-26-000212	4	29	BS	0	H	CommonStockValue	us-gaap/2026	Common stock	0
+0000895421-26-000212	4	30	BS	0	H	AdditionalPaidInCapital	us-gaap/2026	Additional paid-in capital	0
+0000895421-26-000212	4	31	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0000895421-26-000212	4	32	BS	0	H	CapitalAccumulationPlans	us-gaap/2026	Employee stock trusts	0
+0000895421-26-000212	4	33	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive income (loss)	0
+0000895421-26-000212	4	34	BS	0	H	TreasuryStockValue	us-gaap/2026	Common stock held in treasury at cost, $0.01 par value (466,962,871 and 456,059,842 shares)	1
+0000895421-26-000212	4	35	BS	0	H	CommonStockIssuedEmployeeStockTrust	us-gaap/2026	Common stock issued to employee stock trusts	1
+0000895421-26-000212	4	36	BS	0	H	StockholdersEquity	us-gaap/2026	Total Morgan Stanley shareholders equity	0
+0000895421-26-000212	4	37	BS	0	H	NonredeemableNoncontrollingInterest	us-gaap/2026	Noncontrolling interests	0
+0000895421-26-000212	4	38	BS	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Total equity	0
+0000895421-26-000212	4	39	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities and equity	0
+0000895421-26-000212	5	2	BS	1	H	TradingAssetsPledgedAsCollateralAtFairValue	0000895421-26-000212	Trading assets pledged to various parties	0
+0000895421-26-000212	5	3	BS	1	H	DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Available-for-sale, amortized cost	0
+0000895421-26-000212	5	4	BS	1	H	HeldToMaturitySecuritiesFairValue	us-gaap/2026	Held-to-maturity, fair value	0
+0000895421-26-000212	5	5	BS	1	H	FederalFundsSoldAndSecuritiesBorrowedOrPurchasedUnderAgreementsToResellFairValueDisclosure	us-gaap/2026	Fair value of securities purchased under agreement to resell	0
+0000895421-26-000212	5	6	BS	1	H	FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	ACL	0
+0000895421-26-000212	5	7	BS	1	H	FiniteLivedIntangibleAssetsAccumulatedAmortization	us-gaap/2026	Intangible assets, accumulated amortization	0
+0000895421-26-000212	5	9	BS	1	H	DepositsFairValueDisclosure	us-gaap/2026	Deposits at fair value	0
+0000895421-26-000212	5	10	BS	1	H	SecuritiesLoanedOrSoldUnderAgreementsToRepurchaseFairValueDisclosure	us-gaap/2026	Fair value of securities sold under agreement to repurchase	0
+0000895421-26-000212	5	11	BS	1	H	OtherSecuredFinancingsFairValueDisclosure	0000895421-26-000212	Fair value of other secured financings	0
+0000895421-26-000212	5	12	BS	1	H	DebtInstrumentFairValue	us-gaap/2026	Fair value of borrowings	0
+0000895421-26-000212	5	14	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock, par value (USD per share)	0
+0000895421-26-000212	5	15	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common stock authorized (shares)	0
+0000895421-26-000212	5	16	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock issued (shares)	0
+0000895421-26-000212	5	17	BS	1	H	CommonStockSharesOutstanding	us-gaap/2026	Common stock outstanding (shares)	0
+0000895421-26-000212	5	18	BS	1	H	TreasuryStockCommonShares	us-gaap/2026	Common stock held in treasury (shares)	0
+0000895421-26-000212	6	15	EQ	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Beginning balance	0
+0000895421-26-000212	6	16	EQ	0	H	StockIssuedDuringPeriodValueShareBasedCompensation	us-gaap/2026	Share-based award activity	0
+0000895421-26-000212	6	17	EQ	0	H	NetIncomeLoss	us-gaap/2026	Net income applicable to Morgan Stanley	0
+0000895421-26-000212	6	18	EQ	0	H	DividendsPreferredStock	us-gaap/2026	Preferred stock dividends	1
+0000895421-26-000212	6	19	EQ	0	H	DividendsCommonStock	us-gaap/2026	Common stock dividends	1
+0000895421-26-000212	6	20	EQ	0	H	StockholdersEquityOther	us-gaap/2026	Other net increases (decreases)	1
+0000895421-26-000212	6	21	EQ	0	H	OtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Net change in Accumulated other comprehensive income (loss)	0
+0000895421-26-000212	6	22	EQ	0	H	TreasuryStockValueAcquiredCostMethodAndEmployeeTaxWithholdings	0000895421-26-000212	Repurchases of common stock and employee tax withholdings	1
+0000895421-26-000212	6	23	EQ	0	H	NetIncomeLossAttributableToNonredeemableNoncontrollingInterest	us-gaap/2026	Net income applicable to noncontrolling interests	0
+0000895421-26-000212	6	24	EQ	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Ending balance	0
+0000895421-26-000212	7	2	CF	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0000895421-26-000212	7	4	CF	0	H	ShareBasedCompensation	us-gaap/2026	Stock-based compensation expense	0
+0000895421-26-000212	7	5	CF	0	H	DepreciationAndAmortization	us-gaap/2026	Depreciation and amortization	0
+0000895421-26-000212	7	6	CF	0	H	FinancingReceivableAndOffBalanceSheetCreditLossLiabilityCreditLossExpenseReversal	0000895421-26-000212	Provision for credit losses	0
+0000895421-26-000212	7	7	CF	0	H	OtherNoncashIncomeExpense	us-gaap/2026	Other operating adjustments	1
+0000895421-26-000212	7	9	CF	0	H	IncreaseDecreaseInFinancialInstrumentsUsedInOperatingActivities	us-gaap/2026	Trading assets, net of Trading liabilities	1
+0000895421-26-000212	7	10	CF	0	H	IncreaseDecreaseInSecuritiesBorrowed	us-gaap/2026	Securities borrowed	1
+0000895421-26-000212	7	11	CF	0	H	IncreaseDecreaseInSecuritiesLoanedTransactions	us-gaap/2026	Securities loaned	0
+0000895421-26-000212	7	12	CF	0	H	IncreaseDecreaseInReceivables	us-gaap/2026	Customer and other receivables and other assets	1
+0000895421-26-000212	7	13	CF	0	H	IncreaseDecreaseInAccountsPayable	us-gaap/2026	Customer and other payables and other liabilities	0
+0000895421-26-000212	7	14	CF	0	H	IncreaseDecreaseInSecuritiesPurchasedUnderAgreementsToResell	0000895421-26-000212	Securities purchased under agreements to resell	1
+0000895421-26-000212	7	15	CF	0	H	IncreaseDecreaseInPayablesUnderRepurchaseAgreements	us-gaap/2026	Securities sold under agreements to repurchase	0
+0000895421-26-000212	7	16	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash provided by (used for) operating activities	0
+0000895421-26-000212	7	19	CF	0	H	PaymentsForProceedsFromProductiveAssets	us-gaap/2026	Other assetsPremises, equipment and software	1
+0000895421-26-000212	7	20	CF	0	H	PaymentsForProceedsFromLoansReceivable	us-gaap/2026	Changes in loans, net	1
+0000895421-26-000212	7	22	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2026	Purchases	1
+0000895421-26-000212	7	23	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2026	Proceeds from sales	0
+0000895421-26-000212	7	24	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0000895421-26-000212	7	26	CF	0	H	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2026	Purchases	1
+0000895421-26-000212	7	27	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0000895421-26-000212	7	28	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2026	Other investing activities	1
+0000895421-26-000212	7	29	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash provided by (used for) investing activities	0
+0000895421-26-000212	7	32	CF	0	H	ProceedsFromRepaymentsOfOtherSecuredFinancings	0000895421-26-000212	Other secured financings	0
+0000895421-26-000212	7	33	CF	0	H	IncreaseDecreaseInDeposits	us-gaap/2026	Deposits	0
+0000895421-26-000212	7	34	CF	0	H	ProceedsFromIssuanceOfDebt	us-gaap/2026	Proceeds from issuance of Borrowings	0
+0000895421-26-000212	7	36	CF	0	H	RepaymentsOfDebt	us-gaap/2026	Borrowings	1
+0000895421-26-000212	7	37	CF	0	H	PaymentsRelatedToCommonStockRepurchaseAndTaxWithholdingForShareBasedCompensation	0000895421-26-000212	Repurchases of common stock and employee tax withholdings	1
+0000895421-26-000212	7	38	CF	0	H	PaymentsOfDividends	us-gaap/2026	Cash dividends	1
+0000895421-26-000212	7	39	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	Other financing activities	0
+0000895421-26-000212	7	40	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by (used for) financing activities	0
+0000895421-26-000212	7	41	CF	0	H	EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Effect of exchange rate changes on cash and cash equivalents	0
+0000895421-26-000212	7	42	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Net increase (decrease) in cash and cash equivalents	0
+0000895421-26-000212	7	43	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents, at beginning of period	0
+0000895421-26-000212	7	44	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and cash equivalents, at end of period	0
+0000895421-26-000212	7	46	CF	0	H	InterestPaidNet	us-gaap/2026	Cash payments for interest	0
+0000895421-26-000212	7	47	CF	0	H	IncomeTaxesPaidNet	us-gaap/2026	Cash payments for income taxes, net of refunds	0
+0001193125-26-340208	2	10	BS	0	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and Cash Equivalents	0
+0001193125-26-340208	2	11	BS	0	H	CashHeldByFundsAndOther	0001193125-26-340208	Cash Held by Blackstone Funds and Other	0
+0001193125-26-340208	2	12	BS	0	H	Investments	us-gaap/2026	Investments	0
+0001193125-26-340208	2	13	BS	0	H	AccountsReceivableNet	us-gaap/2026	Accounts Receivable	0
+0001193125-26-340208	2	14	BS	0	H	OtherReceivables	us-gaap/2026	Due from Affiliates	0
+0001193125-26-340208	2	15	BS	0	H	FiniteLivedIntangibleAssetsNet	us-gaap/2026	Intangible Assets, Net	0
+0001193125-26-340208	2	16	BS	0	H	Goodwill	us-gaap/2026	Goodwill	0
+0001193125-26-340208	2	17	BS	0	H	OtherAssets	us-gaap/2026	Other Assets	0
+0001193125-26-340208	2	18	BS	0	H	OperatingLeaseRightOfUseAsset	us-gaap/2026	Right-of-Use Assets	0
+0001193125-26-340208	2	19	BS	0	H	DeferredIncomeTaxAssetsNet	us-gaap/2026	Deferred Tax Assets	0
+0001193125-26-340208	2	20	BS	0	H	Assets	us-gaap/2026	Total Assets	0
+0001193125-26-340208	2	22	BS	0	H	LoansPayable	us-gaap/2026	Loans Payable	0
+0001193125-26-340208	2	23	BS	0	H	OtherLiabilities	us-gaap/2026	Due to Affiliates	0
+0001193125-26-340208	2	24	BS	0	H	EmployeeRelatedLiabilitiesCurrentAndNoncurrent	us-gaap/2026	Accrued Compensation and Benefits	0
+0001193125-26-340208	2	25	BS	0	H	OperatingLeaseLiability	us-gaap/2026	Operating Lease Liabilities	0
+0001193125-26-340208	2	26	BS	0	H	AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent	us-gaap/2026	Accounts Payable, Accrued Expenses and Other Liabilities	0
+0001193125-26-340208	2	27	BS	0	H	Liabilities	us-gaap/2026	Total Liabilities	0
+0001193125-26-340208	2	28	BS	0	H	CommitmentsAndContingencies	us-gaap/2026	Commitments and Contingencies	0
+0001193125-26-340208	2	29	BS	0	H	RedeemableNoncontrollingInterestEquityCarryingAmount	us-gaap/2026	Redeemable Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	2	31	BS	0	H	CommonStockValue	us-gaap/2026	Common Stock, $0.00001 par value, 90 billion shares authorized, (752,601,287 shares issued and outstanding as of June 30, 2026; 748,688,068 shares issued and outstanding as of December 31, 2025)	0
+0001193125-26-340208	2	32	BS	0	H	PreferredStockValue	us-gaap/2026	Preferred Stock, Value, Issued	0
+0001193125-26-340208	2	33	BS	0	H	AdditionalPaidInCapitalCommonStock	us-gaap/2026	Additional Paid-in-Capital	0
+0001193125-26-340208	2	34	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained Earnings (Deficit)	0
+0001193125-26-340208	2	35	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated Other Comprehensive Loss	0
+0001193125-26-340208	2	36	BS	0	H	StockholdersEquity	us-gaap/2026	Total Stockholders' Equity of Blackstone Inc.	0
+0001193125-26-340208	2	37	BS	0	H	NonredeemableNoncontrollingInterest	us-gaap/2026	Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	2	38	BS	0	H	MinorityInterestInOperatingPartnerships	us-gaap/2026	Non-Controlling Interests in Blackstone Holdings	0
+0001193125-26-340208	2	39	BS	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Total Equity	0
+0001193125-26-340208	2	40	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total Liabilities and Equity	0
+0001193125-26-340208	3	31	BS	1	H	Assets	us-gaap/2026	Assets	0
+0001193125-26-340208	3	32	BS	1	H	Liabilities	us-gaap/2026	Liabilities	0
+0001193125-26-340208	3	33	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock par value	0
+0001193125-26-340208	3	34	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common shares authorized	0
+0001193125-26-340208	3	35	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common shares issued	0
+0001193125-26-340208	3	36	BS	1	H	CommonStockSharesOutstanding	us-gaap/2026	Common shares outstanding	0
+0001193125-26-340208	3	37	BS	1	H	PreferredStockParOrStatedValuePerShare	us-gaap/2026	Preferred shares par value	0
+0001193125-26-340208	3	38	BS	1	H	PreferredStockSharesAuthorized	us-gaap/2026	Preferred shares authorized	0
+0001193125-26-340208	3	39	BS	1	H	PreferredStockSharesIssued	us-gaap/2026	Preferred shares issued	0
+0001193125-26-340208	3	40	BS	1	H	PreferredStockSharesOutstanding	us-gaap/2026	Preferred shares outstanding	0
+0001193125-26-340208	4	12	IS	0	H	RevenueFromContractWithCustomerExcludingAssessedTax	us-gaap/2026	Revenues	0
+0001193125-26-340208	4	15	IS	0	H	PerformanceAllocationsRealized	0001193125-26-340208	Realized	0
+0001193125-26-340208	4	16	IS	0	H	PerformanceAllocationsUnrealized	0001193125-26-340208	Unrealized	0
+0001193125-26-340208	4	18	IS	0	H	PrincipalInvestmentsRealized	0001193125-26-340208	Realized	0
+0001193125-26-340208	4	19	IS	0	H	PrincipalInvestmentsUnrealized	0001193125-26-340208	Unrealized	0
+0001193125-26-340208	4	20	IS	0	H	GainLossOnInvestments	us-gaap/2026	Total Investment Income	0
+0001193125-26-340208	4	21	IS	0	H	InvestmentIncomeInterestAndDividend	us-gaap/2026	Interest and Dividend Revenue	0
+0001193125-26-340208	4	22	IS	0	H	OtherOperatingIncomeExpenseNet	us-gaap/2026	Other	0
+0001193125-26-340208	4	23	IS	0	H	Revenues	us-gaap/2026	Total Revenues	0
+0001193125-26-340208	4	25	IS	0	H	SalariesAndWages	us-gaap/2026	Compensation	0
+0001193125-26-340208	4	26	IS	0	H	IncentiveFeeExpense	us-gaap/2026	Incentive Fee Compensation	0
+0001193125-26-340208	4	28	IS	0	H	PerformanceAllocationsCompensationRealized	0001193125-26-340208	Realized	0
+0001193125-26-340208	4	29	IS	0	H	PerformanceAllocationsCompensationUnrealized	0001193125-26-340208	Unrealized	0
+0001193125-26-340208	4	30	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Total Compensation and Benefits	0
+0001193125-26-340208	4	31	IS	0	H	GeneralAndAdministrativeExpense	us-gaap/2026	General, Administrative and Other	0
+0001193125-26-340208	4	32	IS	0	H	InterestExpense	us-gaap/2026	Interest Expense	0
+0001193125-26-340208	4	33	IS	0	H	FundExpensesConsolidatedFunds	0001193125-26-340208	Fund Expenses	0
+0001193125-26-340208	4	34	IS	0	H	CostsAndExpenses	us-gaap/2026	Total Expenses	0
+0001193125-26-340208	4	36	IS	0	H	OtherNonoperatingGainsLosses	us-gaap/2026	Net Gains from Fund Investment Activities	0
+0001193125-26-340208	4	37	IS	0	H	OtherNonoperatingIncomeExpense	us-gaap/2026	Total Other Income	0
+0001193125-26-340208	4	38	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Income Before Provision for Taxes	0
+0001193125-26-340208	4	39	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Provision for Taxes	0
+0001193125-26-340208	4	40	IS	0	H	ProfitLoss	us-gaap/2026	Net Income	0
+0001193125-26-340208	4	41	IS	0	H	NetIncomeLossAttributableToRedeemableNoncontrollingInterest	us-gaap/2026	Net Income Attributable to Redeemable Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	4	42	IS	0	H	IncomeLossAttributableToNoncontrollingInterest	us-gaap/2026	Net Income Attributable to Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	4	43	IS	0	H	NetIncomeLossAttributableToNonControllingInterestsInPartnerships	0001193125-26-340208	Net Income Attributable to Non-Controlling Interests in Blackstone Holdings	0
+0001193125-26-340208	4	44	IS	0	H	NetIncomeLoss	us-gaap/2026	Net Income Attributable to Blackstone Inc.	0
+0001193125-26-340208	4	46	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Basic	0
+0001193125-26-340208	4	47	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted	0
+0001193125-26-340208	4	49	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Basic	0
+0001193125-26-340208	4	50	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Diluted	0
+0001193125-26-340208	5	5	CI	0	H	ProfitLoss	us-gaap/2026	Net Income	0
+0001193125-26-340208	5	6	CI	0	H	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax	us-gaap/2026	Other Comprehensive Income (Loss)  Currency Translation Adjustment	0
+0001193125-26-340208	5	7	CI	0	H	ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Comprehensive Income	0
+0001193125-26-340208	5	8	CI	0	H	ComprehensiveIncomeAttributableToRedeemableNonControllingInterestsInConsolidatedEntities	0001193125-26-340208	Comprehensive Income (Loss) Attributable to Redeemable Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	5	9	CI	0	H	ComprehensiveIncomeAttributableToNonControllingInterestsInConsolidatedEntities	0001193125-26-340208	Comprehensive Income Attributable to Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	5	10	CI	0	H	ComprehensiveIncomeAttributableToNonControllingInterestsInPartnerships	0001193125-26-340208	Comprehensive Income Attributable to Non-Controlling Interests in Blackstone Holdings	0
+0001193125-26-340208	5	11	CI	0	H	ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest	us-gaap/2026	Comprehensive Income Attributable to Non-Controlling Interests	0
+0001193125-26-340208	5	12	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive Income Attributable to Blackstone Inc.	0
+0001193125-26-340208	6	18	EQ	0	H	PartnersCapitalAccountUnits	us-gaap/2026	Beginning Balance, Units	0
+0001193125-26-340208	6	19	EQ	0	H	PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Beginning Balance	0
+0001193125-26-340208	6	20	EQ	0	H	RedeemableNoncontrollingInterestEquityCarryingAmount	us-gaap/2026	Beginning Balance	0
+0001193125-26-340208	6	21	EQ	0	H	TransferOutDueToDeconsolidationOfFundEntities	0001193125-26-340208	Transfer Out Due to Deconsolidation of Fund Entities	1
+0001193125-26-340208	6	22	EQ	0	H	NoncontrollingInterestAttributableToConsolidationOfInvestmentFundEntities	0001193125-26-340208	Transfer In Due to Consolidation of Fund Entities	0
+0001193125-26-340208	6	23	EQ	0	H	TransferInDueToConsolidationOfFundEntities	0001193125-26-340208	Transfer In Due to Consolidation of Fund Entities	0
+0001193125-26-340208	6	24	EQ	0	H	NetIncomeLossIncludingPortionAttributableToNonredeemableNoncontrollingInterest	us-gaap/2026	Net Income	0
+0001193125-26-340208	6	25	EQ	0	H	NetIncomeLossAttributableToRedeemableNoncontrollingInterest	us-gaap/2026	Net Income	0
+0001193125-26-340208	6	26	EQ	0	H	OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax	us-gaap/2026	Currency Translation Adjustment	0
+0001193125-26-340208	6	27	EQ	0	H	TemporaryEquityForeignCurrencyTranslationAdjustments	us-gaap/2026	Currency Translation Adjustment	1
+0001193125-26-340208	6	28	EQ	0	H	PartnersCapitalAccountContributions	us-gaap/2026	Capital Contributions	0
+0001193125-26-340208	6	29	EQ	0	H	NoncontrollingInterestIncreaseFromSaleOfParentEquityInterest	us-gaap/2026	Capital Contributions	0
+0001193125-26-340208	6	30	EQ	0	H	PartnersCapitalAccountDistributions	us-gaap/2026	Capital Distributions	1
+0001193125-26-340208	6	31	EQ	0	H	MinorityInterestDecreaseFromRedemptions	us-gaap/2026	Capital Distributions	1
+0001193125-26-340208	6	32	EQ	0	H	NoncontrollingInterestIncreaseDecreaseFromDeconsolidation	0001193125-26-340208	Transfer and Repurchase of Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	6	33	EQ	0	H	NoncontrollingInterestTransferFromSubsidiary	0001193125-26-340208	Transfer and Repurchase of Non-Controlling Interests in Consolidated Entities	0
+0001193125-26-340208	6	34	EQ	0	H	DeferredTaxEffectsOnEquityTransaction	0001193125-26-340208	Deferred Tax Effects on Equity Transactions	0
+0001193125-26-340208	6	35	EQ	0	H	PartnersCapitalAccountUnitBasedCompensation	us-gaap/2026	Equity-Based Compensation	0
+0001193125-26-340208	6	36	EQ	0	H	PartnersCapitalAccountRedemptions	us-gaap/2026	Net Delivery of Vested Blackstone Holdings Partnership Units and Shares of Common Stock	1
+0001193125-26-340208	6	37	EQ	0	H	PartnersCapitalAccountUnitsRedeemed	us-gaap/2026	Net Delivery of Vested Blackstone Holdings Partnership Units and Shares of Common Stock, Units	0
+0001193125-26-340208	6	38	EQ	0	H	PartnersCapitalAccountTreasuryUnitsPurchases	us-gaap/2026	Repurchase of Shares of Common Stock and Blackstone Holdings Partnership Units	1
+0001193125-26-340208	6	39	EQ	0	H	PartnersCapitalAccountUnitsTreasury	us-gaap/2026	Repurchase of Shares of Common Stock and Blackstone Holdings Partnership Units, Units	1
+0001193125-26-340208	6	40	EQ	0	H	ChangeOfParentOwnershipInterest	0001193125-26-340208	Change in Blackstone Inc.'s Ownership Interest	1
+0001193125-26-340208	6	41	EQ	0	H	StockIssuedDuringPeriodValueConversionOfUnits	us-gaap/2026	Conversion of Blackstone Holdings Partnership Units to Shares of Common Stock	0
+0001193125-26-340208	6	42	EQ	0	H	StockIssuedDuringPeriodSharesConversionOfUnits	us-gaap/2026	Conversion of Blackstone Holdings Partnership Units to Shares of Common Stock, Units	0
+0001193125-26-340208	6	43	EQ	0	H	PartnersCapitalAccountUnits	us-gaap/2026	Ending Balance, Units	0
+0001193125-26-340208	6	44	EQ	0	H	PartnersCapitalIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Ending Balance	0
+0001193125-26-340208	6	45	EQ	0	H	RedeemableNoncontrollingInterestEquityCarryingAmount	us-gaap/2026	Ending Balance	0
+0001193125-26-340208	8	6	CF	0	H	ProfitLoss	us-gaap/2026	Net Income	0
+0001193125-26-340208	8	8	CF	0	H	NetRealizedGainsLossesOnInvestmentsFundsRelated	0001193125-26-340208	Net Realized Gains on Investments	0
+0001193125-26-340208	8	9	CF	0	H	UnrealizedGainLossOnInvestments	us-gaap/2026	Changes in Unrealized Gains on Investments	1
+0001193125-26-340208	8	10	CF	0	H	NonCashPerformanceAllocations	0001193125-26-340208	Non-Cash Performance Allocations	1
+0001193125-26-340208	8	11	CF	0	H	NonCashPerformanceAllocationsAndIncentiveFeeCompensation	0001193125-26-340208	Non-Cash Performance Allocations and Incentive Fee Compensation	0
+0001193125-26-340208	8	12	CF	0	H	ShareBasedCompensation	us-gaap/2026	Equity-Based Compensation Expense	0
+0001193125-26-340208	8	13	CF	0	H	AmortizationOfIntangibleAssets	us-gaap/2026	Amortization of Intangibles	0
+0001193125-26-340208	8	14	CF	0	H	OtherNoncashIncomeExpense	us-gaap/2026	Other Non-Cash Amounts Included in Net Income	1
+0001193125-26-340208	8	16	CF	0	H	CashAcquiredWithConsolidationOfFundEntities	0001193125-26-340208	Cash Acquired with Consolidation of Fund Entities	0
+0001193125-26-340208	8	17	CF	0	H	IncreaseDecreaseInCashOfDiscontinuedOperations	0001193125-26-340208	Cash Relinquished with Deconsolidation of Fund Entities	0
+0001193125-26-340208	8	18	CF	0	H	IncreaseDecreaseInAccountsReceivable	us-gaap/2026	Accounts Receivable	1
+0001193125-26-340208	8	19	CF	0	H	IncreaseDecreaseDueFromAffiliates	us-gaap/2026	Due from Affiliates	1
+0001193125-26-340208	8	20	CF	0	H	IncreaseDecreaseInOtherOperatingAssets	us-gaap/2026	Other Assets	1
+0001193125-26-340208	8	21	CF	0	H	IncreaseDecreaseInAccruedSalaries	us-gaap/2026	Accrued Compensation and Benefits	0
+0001193125-26-340208	8	22	CF	0	H	IncreaseDecreaseInAccountsPayableAndAccruedLiabilities	us-gaap/2026	Accounts Payable, Accrued Expenses and Other Liabilities	0
+0001193125-26-340208	8	23	CF	0	H	IncreaseDecreaseInDueToAffiliates	us-gaap/2026	Due to Affiliates	0
+0001193125-26-340208	8	24	CF	0	H	DecreaseInFinancialInstrumentsUsedInOperatingActivities	0001193125-26-340208	Investments Purchased	1
+0001193125-26-340208	8	25	CF	0	H	IncreaseInFinancialInstrumentsUsedInOperatingActivities	0001193125-26-340208	Cash Proceeds from Sale of Investments	0
+0001193125-26-340208	8	26	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net Cash Provided by Operating Activities	0
+0001193125-26-340208	8	28	CF	0	H	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2026	Purchase of Furniture, Equipment and Leasehold Improvements	1
+0001193125-26-340208	8	29	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net Cash Used in Investing Activities	0
+0001193125-26-340208	8	31	CF	0	H	PaymentsOfDividendsMinorityInterest	us-gaap/2026	Distributions to Non-Controlling Interest Holders in Consolidated Entities	1
+0001193125-26-340208	8	32	CF	0	H	ProceedsFromMinorityShareholders	us-gaap/2026	Contributions from Non-Controlling Interest Holders in Consolidated Entities	0
+0001193125-26-340208	8	33	CF	0	H	PaymentsOfTaxReceivableAgreement	0001193125-26-340208	Payments Under Tax Receivable Agreement	1
+0001193125-26-340208	8	34	CF	0	H	NetSettlementOfVestedCommonUnitsAndRepurchaseOfCommonAndPartnershipUnits	0001193125-26-340208	Net Settlement of Vested Common Stock and Repurchase of Common Stock	1
+0001193125-26-340208	8	35	CF	0	H	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2026	Proceeds from Loans Payable	0
+0001193125-26-340208	8	36	CF	0	H	RepaymentsOfLongTermDebt	us-gaap/2026	Repayment and Repurchase of Loans Payable	1
+0001193125-26-340208	8	37	CF	0	H	PaymentsOfDividendsCommonStock	us-gaap/2026	Dividends/Distributions to Stockholders and Unitholders	1
+0001193125-26-340208	8	38	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net Cash Used in Financing Activities	0
+0001193125-26-340208	8	39	CF	0	H	EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Effect of Exchange Rate Changes on Cash and Cash Equivalents and Cash Held by Blackstone Funds and Other	0
+0001193125-26-340208	8	41	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Net Increase (Decrease)	0
+0001193125-26-340208	8	42	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Beginning of Period	0
+0001193125-26-340208	8	43	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	End of Period	0
+0001193125-26-340208	8	45	CF	0	H	InterestPaidNet	us-gaap/2026	Payments for Interest	0
+0001193125-26-340208	8	46	CF	0	H	IncomeTaxesPaid	us-gaap/2026	Payments for Income Taxes	0
+0001193125-26-340208	8	48	CF	0	H	NonCashContributionsFromNonControllingInterestHolders	0001193125-26-340208	Non-Cash Contributions from Non-Controlling Interest Holders	0
+0001193125-26-340208	8	49	CF	0	H	NonCashDistributionsToNonControllingInterestHolders	0001193125-26-340208	Non-Cash Distributions to Non-Controlling Interest Holders	1
+0001193125-26-340208	8	50	CF	0	H	TransferOfInterestsToNonControllingInterestHolders	0001193125-26-340208	Transfer of Interests to Non-Controlling Interest Holders	0
+0001193125-26-340208	8	51	CF	0	H	NetSettlementOfVestedCommonStock	0001193125-26-340208	Net Settlement of Vested Common Stock	0
+0001193125-26-340208	8	52	CF	0	H	DeferredTaxAssetIncreaseDecreaseFromEquityTransactions	0001193125-26-340208	Deferred Tax Asset Increase from Equity Transactions	0
+0001193125-26-340208	8	53	CF	0	H	DueToAffiliatesIncreaseRelatedToTheImpactOfConversionsOnTaxReceivableAgreements	0001193125-26-340208	Due to Affiliates Increase Related to the Impact of Conversions on Tax Receivable Agreements	0
+0001193125-26-340208	9	5	CF	1	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and Cash Equivalents	0
+0001193125-26-340208	9	6	CF	1	H	CashHeldByFundsAndOther	0001193125-26-340208	Cash Held by Blackstone Funds and Other	0
+0001193125-26-340208	9	7	CF	1	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and Cash Equivalents and Cash Held by Blackstone Funds and Other	0
+0001390777-26-000086	2	2	IS	0	H	SecuritiesServicingAndTreasuryServicesFees	0001390777-26-000086	Investment services fees	0
+0001390777-26-000086	2	3	IS	0	H	InvestmentManagementandPerformanceFees	0001390777-26-000086	Investment management and performance fees	0
+0001390777-26-000086	2	4	IS	0	H	ForeignExchangeRevenue	0001390777-26-000086	Foreign exchange revenue	0
+0001390777-26-000086	2	5	IS	0	H	FinancingRelatedFees	0001390777-26-000086	Financing-related fees	0
+0001390777-26-000086	2	6	IS	0	H	DistributionAndServicing	0001390777-26-000086	Distribution and servicing fees	0
+0001390777-26-000086	2	7	IS	0	H	TotalFeeRevenue	0001390777-26-000086	Total fee revenue	0
+0001390777-26-000086	2	8	IS	0	H	InvestmentAndOtherIncome	0001390777-26-000086	Investment and other revenue	0
+0001390777-26-000086	2	9	IS	0	H	NoninterestIncome	us-gaap/2026	Total fee and other revenue	0
+0001390777-26-000086	2	11	IS	0	H	InterestAndDividendIncomeOperating	us-gaap/2026	Interest income	0
+0001390777-26-000086	2	12	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	0
+0001390777-26-000086	2	13	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest income	0
+0001390777-26-000086	2	14	IS	0	H	TotalRevenuesIncludingRevenueGeneratedByVariableInterestEntities	0001390777-26-000086	Total revenue	0
+0001390777-26-000086	2	15	IS	0	H	ProvisionForLoanLeaseAndOtherLosses	us-gaap/2026	Provision for credit losses	0
+0001390777-26-000086	2	17	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Staff	0
+0001390777-26-000086	2	18	IS	0	H	InformationTechnologyAndDataProcessing	us-gaap/2026	Software and equipment	0
+0001390777-26-000086	2	19	IS	0	H	ProfessionalFees	us-gaap/2026	Professional, legal and other purchased services	0
+0001390777-26-000086	2	20	IS	0	H	SubcustodianAndClearingExpense	0001390777-26-000086	Sub-custodian and clearing	0
+0001390777-26-000086	2	21	IS	0	H	OccupancyNet	us-gaap/2026	Net occupancy	0
+0001390777-26-000086	2	22	IS	0	H	ExpenseRelatedToDistributionOrServicingAndUnderwritingFees	us-gaap/2026	Distribution and servicing	0
+0001390777-26-000086	2	23	IS	0	H	BusinessDevelopment	us-gaap/2026	Business development	0
+0001390777-26-000086	2	24	IS	0	H	BankAssessmentCharges	0001390777-26-000086	Bank assessment charges	0
+0001390777-26-000086	2	25	IS	0	H	AmortizationOfIntangibleAssets	us-gaap/2026	Amortization of intangible assets	0
+0001390777-26-000086	2	26	IS	0	H	OtherNoninterestExpense	us-gaap/2026	Other	0
+0001390777-26-000086	2	27	IS	0	H	NoninterestExpense	us-gaap/2026	Total noninterest expense	0
+0001390777-26-000086	2	29	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxes	0001390777-26-000086	Income before income taxes	0
+0001390777-26-000086	2	30	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Provision for income taxes	0
+0001390777-26-000086	2	31	IS	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0001390777-26-000086	2	32	IS	0	H	NetIncomeLossAttributableToNoncontrollingInterest	us-gaap/2026	Net (income) loss attributable to noncontrolling interests related to consolidated investment management funds	1
+0001390777-26-000086	2	33	IS	0	H	NetIncomeLoss	us-gaap/2026	Net income applicable to shareholders of The Bank of New York Mellon Corporation	0
+0001390777-26-000086	2	34	IS	0	H	PreferredStockDividendsIncomeStatementImpact	us-gaap/2026	Preferred stock dividends	1
+0001390777-26-000086	2	35	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Net income applicable to common shareholders of The Bank of New York Mellon Corporation	0
+0001390777-26-000086	2	37	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Basic (shares)	0
+0001390777-26-000086	2	38	IS	0	H	WeightedAverageNumberDilutedSharesOutstandingAdjustment	us-gaap/2026	Common stock equivalents (shares)	0
+0001390777-26-000086	2	39	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Diluted (shares)	0
+0001390777-26-000086	2	40	IS	0	H	AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount	us-gaap/2026	Anti-dilutive securities (shares)	0
+0001390777-26-000086	2	42	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Basic (usd per share)	0
+0001390777-26-000086	2	43	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted (usd per share)	0
+0001390777-26-000086	3	1	CI	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0001390777-26-000086	3	3	CI	0	H	OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax	us-gaap/2026	Foreign currency translation adjustments	0
+0001390777-26-000086	3	5	CI	0	H	OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax	us-gaap/2026	Unrealized gain (loss) arising during the period	0
+0001390777-26-000086	3	6	CI	0	H	OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax	us-gaap/2026	Reclassification adjustment	1
+0001390777-26-000086	3	7	CI	0	H	OtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax	us-gaap/2026	Total unrealized gain (loss) on assets available-for-sale	0
+0001390777-26-000086	3	9	CI	0	H	OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodNetOfTax	us-gaap/2026	Net gain (loss) arising during the period	0
+0001390777-26-000086	3	10	CI	0	H	OtherComprehensiveIncomeLossDefinedBenefitPlanForeignCurrencyTranslationAdjustmentAfterTax	0001390777-26-000086	Foreign exchange adjustment	0
+0001390777-26-000086	3	11	CI	0	H	OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditNetOfTax	us-gaap/2026	Amortization of prior service credit, net loss and initial obligation included in net periodic benefit cost	0
+0001390777-26-000086	3	12	CI	0	H	OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansAdjustmentNetOfTax	us-gaap/2026	Total defined benefit plans	1
+0001390777-26-000086	3	13	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax	us-gaap/2026	Net unrealized gain (loss) on cash flow hedges	0
+0001390777-26-000086	3	14	CI	0	H	OtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Total other comprehensive income (loss), net of tax	0
+0001390777-26-000086	3	15	CI	0	H	ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Total comprehensive income	0
+0001390777-26-000086	3	16	CI	0	H	NetIncomeLossAttributableToNoncontrollingInterest	us-gaap/2026	Net (income) loss attributable to noncontrolling interests	1
+0001390777-26-000086	3	17	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToNoncontrollingInterest	us-gaap/2026	Other comprehensive (income) loss attributable to noncontrolling interests	1
+0001390777-26-000086	3	18	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive income applicable to shareholders of The Bank of New York Mellon Corporation	0
+0001390777-26-000086	4	1	CI	1	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income (loss)	0
+0001390777-26-000086	5	2	BS	0	H	CashAndDueFromBanks	us-gaap/2026	Cash and due from banks, net of allowance for credit losses of $21 and $19	0
+0001390777-26-000086	5	3	BS	0	H	InterestBearingDepositsInFederalReserveAndOtherCentralBanks	0001390777-26-000086	Interest-bearing deposits with the Federal Reserve and other central banks	0
+0001390777-26-000086	5	4	BS	0	H	InterestBearingDepositsInBanks	us-gaap/2026	Interest-bearing deposits with banks, net of allowance for credit losses of $3 and $3 (includes restricted of $3,901 and $2,848)	0
+0001390777-26-000086	5	5	BS	0	H	FederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Federal funds sold and securities purchased under resale agreements	0
+0001390777-26-000086	5	7	BS	0	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held-to-maturity, at amortized cost, net of allowance for credit losses of less than $1 and less than $1 (fair value of $45,317 and $45,377)	0
+0001390777-26-000086	5	8	BS	0	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Available-for-sale, at fair value (amortized cost of $108,103 and $102,422, net of allowance for credit losses of $ and $)	0
+0001390777-26-000086	5	9	BS	0	H	DebtSecuritiesAvailableForSaleAndHeldToMaturityAmortizedCostAfterAllowanceForCreditLoss	us-gaap/2026	Total investment securities	0
+0001390777-26-000086	5	10	BS	0	H	TradingSecurities	us-gaap/2026	Trading assets	0
+0001390777-26-000086	5	11	BS	0	H	FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLoss	us-gaap/2026	Loans	0
+0001390777-26-000086	5	12	BS	0	H	FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Allowance for credit losses	1
+0001390777-26-000086	5	13	BS	0	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Net loans	0
+0001390777-26-000086	5	14	BS	0	H	PropertyPlantAndEquipmentNet	us-gaap/2026	Premises and equipment	0
+0001390777-26-000086	5	15	BS	0	H	InterestReceivable	us-gaap/2026	Accrued interest receivable	0
+0001390777-26-000086	5	16	BS	0	H	Goodwill	us-gaap/2026	Goodwill	0
+0001390777-26-000086	5	17	BS	0	H	IntangibleAssetsNetExcludingGoodwill	us-gaap/2026	Intangible assets	0
+0001390777-26-000086	5	18	BS	0	H	OtherAssets	us-gaap/2026	Other assets, net of allowance for credit losses on accounts receivable of $3 and $3 (includes $2,125 and $1,666, at fair value)	0
+0001390777-26-000086	5	19	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0001390777-26-000086	5	22	BS	0	H	NoninterestBearingDomesticDepositDemand	us-gaap/2026	Noninterest-bearing deposits (principally U.S. offices)	0
+0001390777-26-000086	5	23	BS	0	H	InterestBearingDepositLiabilitiesDomestic	us-gaap/2026	Interest-bearing deposits in U.S. offices	0
+0001390777-26-000086	5	24	BS	0	H	InterestBearingDepositLiabilitiesForeign	us-gaap/2026	Interest-bearing deposits in non-U.S. offices	0
+0001390777-26-000086	5	25	BS	0	H	Deposits	us-gaap/2026	Total deposits	0
+0001390777-26-000086	5	26	BS	0	H	FederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2026	Federal funds purchased and securities sold under repurchase agreements	0
+0001390777-26-000086	5	27	BS	0	H	TradingLiabilities	us-gaap/2026	Trading liabilities	0
+0001390777-26-000086	5	28	BS	0	H	PayablesToBrokerDealersAndClearingOrganizations	srt/2026	Payables to customers and broker-dealers	0
+0001390777-26-000086	5	29	BS	0	H	CommercialPaper	us-gaap/2026	Commercial paper	0
+0001390777-26-000086	5	30	BS	0	H	OtherBorrowings	us-gaap/2026	Other borrowed funds	0
+0001390777-26-000086	5	31	BS	0	H	AccruedLiabilitiesCurrentAndNoncurrent	us-gaap/2026	Accrued taxes and other expenses	0
+0001390777-26-000086	5	32	BS	0	H	OtherLiabilities	us-gaap/2026	Other liabilities (including allowance for credit losses on lending-related commitments of $90 and $74, also includes $662 and $617, at fair value)	0
+0001390777-26-000086	5	33	BS	0	H	LongTermDebt	us-gaap/2026	Long-term debt	0
+0001390777-26-000086	5	34	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0001390777-26-000086	5	36	BS	0	H	TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests	us-gaap/2026	Redeemable noncontrolling interests	0
+0001390777-26-000086	5	38	BS	0	H	PreferredStockValue	us-gaap/2026	Preferred stock  par value $0.01 per share; authorized 100,000,000 shares; issued 48,001 and 48,826 shares	0
+0001390777-26-000086	5	39	BS	0	H	CommonStockValueOutstanding	us-gaap/2026	Common stock  par value $0.01 per share; authorized 3,500,000,000 shares; issued 1,423,508,028 and 1,416,966,905 shares	0
+0001390777-26-000086	5	40	BS	0	H	AdditionalPaidInCapital	us-gaap/2026	Additional paid-in capital	0
+0001390777-26-000086	5	41	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0001390777-26-000086	5	42	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive loss, net of tax	0
+0001390777-26-000086	5	43	BS	0	H	TreasuryStockValue	us-gaap/2026	Less: Treasury stock of 745,003,886 and 728,730,568 common shares, at cost	1
+0001390777-26-000086	5	44	BS	0	H	StockholdersEquity	us-gaap/2026	Total The Bank of New York Mellon Corporation shareholders equity	0
+0001390777-26-000086	5	45	BS	0	H	MinorityInterest	us-gaap/2026	Nonredeemable noncontrolling interests of consolidated investment management funds	0
+0001390777-26-000086	5	46	BS	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Total permanent equity	0
+0001390777-26-000086	5	47	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities, temporary equity and permanent equity	0
+0001390777-26-000086	6	1	BS	1	H	CashandDuefromBanksAllowanceforCreditLoss	0001390777-26-000086	Cash and due from banks, allowance for credit loss	0
+0001390777-26-000086	6	2	BS	1	H	InterestbearingDepositsinBanksandOtherFinancialInstitutionsAllowanceforCreditLoss	0001390777-26-000086	Interest-bearing deposits with banks, allowance for credit loss	0
+0001390777-26-000086	6	3	BS	1	H	RestrictedCashInterestBearingDepositsInBanksAndOtherFinancialInstitutions	0001390777-26-000086	Restricted cash, interest-bearing deposits in banks and other financial institutions	0
+0001390777-26-000086	6	4	BS	1	H	DebtSecuritiesHeldToMaturityAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Debt securities, held-to-maturity, allowance for credit loss (less than)	0
+0001390777-26-000086	6	5	BS	1	H	HeldToMaturitySecuritiesFairValue	us-gaap/2026	Securities held-to-maturity	0
+0001390777-26-000086	6	6	BS	1	H	DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Available-for-sale, amortized cost	0
+0001390777-26-000086	6	7	BS	1	H	DebtSecuritiesAvailableForSaleAmortizedCostAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Available-for-sale, allowance for credit loss	0
+0001390777-26-000086	6	8	BS	1	H	AllowanceForDoubtfulAccountsReceivable	us-gaap/2026	Other assets, allowance for credit loss on accounts receivable	0
+0001390777-26-000086	6	9	BS	1	H	OtherAssetsFairValueDisclosure	us-gaap/2026	Other assets	0
+0001390777-26-000086	6	10	BS	1	H	OffBalanceSheetCreditLossLiability	us-gaap/2026	Allowance for credit losses on lending related commitments	0
+0001390777-26-000086	6	11	BS	1	H	OtherLiabilitiesFairValueDisclosure	us-gaap/2026	Other liabilities, fair value	0
+0001390777-26-000086	6	12	BS	1	H	PreferredStockParOrStatedValuePerShare	us-gaap/2026	Preferred stock, par value (usd per share)	0
+0001390777-26-000086	6	13	BS	1	H	PreferredStockSharesAuthorized	us-gaap/2026	Preferred stock, shares authorized (shares)	0
+0001390777-26-000086	6	14	BS	1	H	PreferredStockSharesIssued	us-gaap/2026	Preferred stock, issued (shares)	0
+0001390777-26-000086	6	15	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock, par value (usd per share)	0
+0001390777-26-000086	6	16	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common stock, authorized (shares)	0
+0001390777-26-000086	6	17	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock, issued (shares)	0
+0001390777-26-000086	6	18	BS	1	H	TreasuryStockCommonShares	us-gaap/2026	Treasury stock (in shares)	0
+0001390777-26-000086	7	2	CF	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0001390777-26-000086	7	3	CF	0	H	NetIncomeLossAttributableToNoncontrollingInterest	us-gaap/2026	Net (income) loss attributable to noncontrolling interests	1
+0001390777-26-000086	7	4	CF	0	H	NetIncomeLoss	us-gaap/2026	Net income applicable to shareholders of The Bank of New York Mellon Corporation	0
+0001390777-26-000086	7	6	CF	0	H	ProvisionForLoanLeaseAndOtherLosses	us-gaap/2026	Provision for credit losses	0
+0001390777-26-000086	7	7	CF	0	H	PensionContributions	us-gaap/2026	Pension plan contributions	1
+0001390777-26-000086	7	8	CF	0	H	DepreciationAmortizationAndAccretionNet	us-gaap/2026	Depreciation and amortization	0
+0001390777-26-000086	7	9	CF	0	H	DeferredIncomeTaxExpenseBenefit	us-gaap/2026	Deferred tax expense (benefit)	0
+0001390777-26-000086	7	10	CF	0	H	NetSecuritiesGainLoss	0001390777-26-000086	Net investment securities losses	1
+0001390777-26-000086	7	11	CF	0	H	IncreaseDecreaseInTradingSecurities	us-gaap/2026	Change in trading assets and liabilities	1
+0001390777-26-000086	7	12	CF	0	H	IncreaseDecreaseInOtherOperatingLiabilities	us-gaap/2026	Change in accruals and other, net	0
+0001390777-26-000086	7	13	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash provided by (used for) operating activities	0
+0001390777-26-000086	7	15	CF	0	H	ProceedsFromPaymentsForInInterestBearingDepositsInBanks	us-gaap/2026	Interest-bearing deposits with banks	0
+0001390777-26-000086	7	16	CF	0	H	NetChangeInInterestBearingDepositsWithFederalReserveAndOtherCentralBanks	0001390777-26-000086	Interest-bearing deposits with the Federal Reserve and other central banks	0
+0001390777-26-000086	7	17	CF	0	H	ProceedsFromPaymentsForFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResellNet	us-gaap/2026	Federal funds sold and securities purchased under resale agreements	0
+0001390777-26-000086	7	18	CF	0	H	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2026	Purchases	1
+0001390777-26-000086	7	19	CF	0	H	ProceedsFromPrepaymentsAndCallsOfHeldToMaturitySecurities	0001390777-26-000086	Proceeds from paydowns and maturities	0
+0001390777-26-000086	7	20	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2026	Purchases	1
+0001390777-26-000086	7	21	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2026	Proceeds from sales	0
+0001390777-26-000086	7	22	CF	0	H	ProceedsfromPrepaymentsandCallsofDebtSecuritiesAvailableforsale	0001390777-26-000086	Proceeds from paydowns and maturities	0
+0001390777-26-000086	7	23	CF	0	H	PaymentsForProceedsFromOtherLoansAndLeases	us-gaap/2026	Net change in loans	1
+0001390777-26-000086	7	24	CF	0	H	PaymentsToAcquirePropertyPlantAndEquipment	us-gaap/2026	Purchases of premises and equipment/capitalized software	1
+0001390777-26-000086	7	25	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2026	Other, net	1
+0001390777-26-000086	7	26	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash provided by (used for) investing activities	0
+0001390777-26-000086	7	28	CF	0	H	IncreaseDecreaseInDeposits	us-gaap/2026	Deposits	0
+0001390777-26-000086	7	29	CF	0	H	IncreaseDecreaseInFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchaseNet	us-gaap/2026	Federal funds purchased and securities sold under repurchase agreements	0
+0001390777-26-000086	7	30	CF	0	H	IncreaseDecreaseInPayableToCustomersAndBrokerDealers	0001390777-26-000086	Payables to customers and broker-dealers	0
+0001390777-26-000086	7	31	CF	0	H	ProceedsFromRepaymentsOfCommercialPaper	us-gaap/2026	Commercial paper	0
+0001390777-26-000086	7	32	CF	0	H	ProceedsFromRepaymentsOfOtherDebt	us-gaap/2026	Other borrowed funds	0
+0001390777-26-000086	7	33	CF	0	H	ProceedsFromIssuanceOfLongTermDebt	us-gaap/2026	Net proceeds from the issuance of long-term debt	0
+0001390777-26-000086	7	34	CF	0	H	RepaymentsOfLongTermDebt	us-gaap/2026	Repayments, redemptions and repurchases of long-term debt	1
+0001390777-26-000086	7	35	CF	0	H	ProceedsFromIssuanceOfCommonStock	us-gaap/2026	Issuance of common stock	0
+0001390777-26-000086	7	36	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2026	Treasury stock acquired	1
+0001390777-26-000086	7	37	CF	0	H	ProceedsFromIssuanceOfPreferredStockAndPreferenceStock	us-gaap/2026	Issuance of preferred stock	0
+0001390777-26-000086	7	38	CF	0	H	PaymentsForRepurchaseOfPreferredStockAndPreferenceStock	us-gaap/2026	Preferred stock redemption	1
+0001390777-26-000086	7	39	CF	0	H	PaymentsOfDividends	us-gaap/2026	Cash dividends paid	1
+0001390777-26-000086	7	40	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	Other, net	0
+0001390777-26-000086	7	41	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by (used for) financing activities	0
+0001390777-26-000086	7	42	CF	0	H	EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Effect of exchange rate changes on cash	0
+0001390777-26-000086	7	44	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Change in cash and due from banks and restricted cash	0
+0001390777-26-000086	7	45	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks and restricted cash at beginning of period	0
+0001390777-26-000086	7	46	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks and restricted cash at end of period	0
+0001390777-26-000086	7	47	CF	0	H	CashAndCashEquivalentsAtCarryingValue	us-gaap/2026	Cash and due from banks at end of period (unrestricted cash)	0
+0001390777-26-000086	7	48	CF	0	H	RestrictedCashAndCashEquivalents	us-gaap/2026	Restricted cash at end of period	0
+0001390777-26-000086	7	49	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks and restricted cash at end of period	0
+0001390777-26-000086	7	51	CF	0	H	InterestPaidNet	us-gaap/2026	Interest paid	0
+0001390777-26-000086	7	52	CF	0	H	IncomeTaxesPaid	us-gaap/2026	Income taxes paid	0
+0001390777-26-000086	7	53	CF	0	H	ProceedsFromIncomeTaxRefunds	us-gaap/2026	Income taxes refunded	0
+0001390777-26-000086	8	14	EQ	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Balance at beginning of period	0
+0001390777-26-000086	8	15	EQ	0	H	StockIssuedDuringPeriodValueNewIssues	us-gaap/2026	Issuance	0
+0001390777-26-000086	8	16	EQ	0	H	StockRedeemedOrCalledDuringPeriodValue	us-gaap/2026	Redemption	1
+0001390777-26-000086	8	17	EQ	0	H	PreferredStockAmortizationOfDeferredFees	0001390777-26-000086	Amortization of preferred stock discount	1
+0001390777-26-000086	8	18	EQ	0	H	AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue	us-gaap/2026	Stock-based compensation	0
+0001390777-26-000086	8	19	EQ	0	H	StockIssuedDuringPeriodValueEmployeeBenefitPlan	us-gaap/2026	Common stock issued under employee benefit plans	0
+0001390777-26-000086	8	20	EQ	0	H	MinorityInterestPeriodIncreaseDecrease	us-gaap/2026	Other net changes in noncontrolling interests	0
+0001390777-26-000086	8	21	EQ	0	H	StockholdersEquityOther	us-gaap/2026	Other	1
+0001390777-26-000086	8	22	EQ	0	H	ProfitLoss	us-gaap/2026	Net income	0
+0001390777-26-000086	8	23	EQ	0	H	DividendsCommonStock	us-gaap/2026	Common stock	1
+0001390777-26-000086	8	24	EQ	0	H	DividendsPreferredStock	us-gaap/2026	Preferred stock dividends	1
+0001390777-26-000086	8	25	EQ	0	H	OtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Other comprehensive income (loss)	0
+0001390777-26-000086	8	26	EQ	0	H	TreasuryStockValueAcquiredCostMethod	us-gaap/2026	Repurchase of common stock	1
+0001390777-26-000086	8	27	EQ	0	H	ExciseTaxOnShareRepurchase	0001390777-26-000086	Excise tax on share repurchases	1
+0001390777-26-000086	8	28	EQ	0	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Balance at end of period	0
+0001390777-26-000086	8	30	EQ	0	H	TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests	us-gaap/2026	Balance at beginning of period	0
+0001390777-26-000086	8	31	EQ	0	H	TemporaryEquityOtherChanges	us-gaap/2026	Other net changes in noncontrolling interests	0
+0001390777-26-000086	8	32	EQ	0	H	TemporaryEquityOtherComprehensiveIncomeLoss	0001390777-26-000086	Other comprehensive income (loss)	0
+0001390777-26-000086	8	33	EQ	0	H	TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests	us-gaap/2026	Balance at end of period	0
+0001390777-26-000086	9	6	EQ	1	H	CommonStockDividendsPerShareCashPaid	us-gaap/2026	Dividends on common stock, cash paid (usd per share)	0
+0001390777-26-000086	9	7	EQ	1	H	StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest	us-gaap/2026	Equity	0
+0001628280-26-054343	2	2	IS	0	H	InvestmentBankingRevenue	us-gaap/2026	Investment banking fees	0
+0001628280-26-054343	2	3	IS	0	H	PrincipalTransactionsRevenue	us-gaap/2026	Principal transactions	0
+0001628280-26-054343	2	4	IS	0	H	LendingAndDepositRelatedFees	0001628280-26-054343	Lending- and deposit-related fees	0
+0001628280-26-054343	2	5	IS	0	H	AssetManagementFees	0001628280-26-054343	Asset management fees	0
+0001628280-26-054343	2	6	IS	0	H	FeesAndCommissions1	0001628280-26-054343	Commissions and other fees	0
+0001628280-26-054343	2	7	IS	0	H	DebtSecuritiesAvailableForSaleRealizedGainLoss	us-gaap/2026	Investment securities losses	0
+0001628280-26-054343	2	8	IS	0	H	MortgageFeesAndRelatedIncome	0001628280-26-054343	Mortgage fees and related income	0
+0001628280-26-054343	2	9	IS	0	H	FeesAndCommissionsCreditAndDebitCards1	0001628280-26-054343	Card income	0
+0001628280-26-054343	2	10	IS	0	H	NoninterestIncomeOther	us-gaap/2026	Other income	0
+0001628280-26-054343	2	11	IS	0	H	NoninterestIncome	us-gaap/2026	Noninterest revenue	0
+0001628280-26-054343	2	12	IS	0	H	InterestIncomeOperating	us-gaap/2026	Interest income	0
+0001628280-26-054343	2	13	IS	0	H	InterestExpenseOperating	us-gaap/2026	Interest expense	0
+0001628280-26-054343	2	14	IS	0	H	InterestIncomeExpenseNet	us-gaap/2026	Net interest income	0
+0001628280-26-054343	2	15	IS	0	H	RevenuesNetOfInterestExpense	us-gaap/2026	Total net revenue	0
+0001628280-26-054343	2	16	IS	0	H	ProvisionForLoanLeaseAndOtherLosses	us-gaap/2026	Provision for credit losses	0
+0001628280-26-054343	2	18	IS	0	H	LaborAndRelatedExpense	us-gaap/2026	Compensation expense	0
+0001628280-26-054343	2	19	IS	0	H	OccupancyNet	us-gaap/2026	Occupancy expense	0
+0001628280-26-054343	2	20	IS	0	H	CommunicationsAndInformationTechnology	us-gaap/2026	Technology, communications and equipment expense	0
+0001628280-26-054343	2	21	IS	0	H	ProfessionalAndContractServicesExpense	us-gaap/2026	Professional and outside services	0
+0001628280-26-054343	2	22	IS	0	H	MarketingAndAdvertisingExpense	us-gaap/2026	Marketing	0
+0001628280-26-054343	2	23	IS	0	H	OtherNoninterestExpense	us-gaap/2026	Other expense	0
+0001628280-26-054343	2	24	IS	0	H	NoninterestExpense	us-gaap/2026	Total noninterest expense	0
+0001628280-26-054343	2	25	IS	0	H	IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest	us-gaap/2026	Income/(loss) before income tax expense/(benefit)	0
+0001628280-26-054343	2	26	IS	0	H	IncomeTaxExpenseBenefit	us-gaap/2026	Income tax expense	0
+0001628280-26-054343	2	27	IS	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0001628280-26-054343	2	28	IS	0	H	NetIncomeLossAvailableToCommonStockholdersBasic	us-gaap/2026	Basic net income applicable to common stockholders	0
+0001628280-26-054343	2	29	IS	0	H	NetIncomeLossAvailableToCommonStockholdersDiluted	us-gaap/2026	Diluted net income applicable to common stockholders	0
+0001628280-26-054343	2	31	IS	0	H	EarningsPerShareBasic	us-gaap/2026	Basic earnings per share (in dollars per share)	0
+0001628280-26-054343	2	32	IS	0	H	EarningsPerShareDiluted	us-gaap/2026	Diluted earnings per share (in dollars per share)	0
+0001628280-26-054343	2	33	IS	0	H	WeightedAverageNumberOfSharesOutstandingBasic	us-gaap/2026	Weighted-average basic shares (in shares)	0
+0001628280-26-054343	2	34	IS	0	H	WeightedAverageNumberOfDilutedSharesOutstanding	us-gaap/2026	Weighted-average diluted shares (in shares)	0
+0001628280-26-054343	3	1	CI	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0001628280-26-054343	3	3	CI	0	H	OtherComprehensiveIncomeAvailableforsaleSecuritiesAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Unrealized gains/(losses) on investment securities	0
+0001628280-26-054343	3	4	CI	0	H	OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Translation adjustments, net of hedges	0
+0001628280-26-054343	3	5	CI	0	H	OtherComprehensiveIncomeLossDerivativeExcludedComponentIncreaseDecreaseAfterAdjustmentsAndTaxParent	us-gaap/2026	Fair value hedges	0
+0001628280-26-054343	3	6	CI	0	H	OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTaxParent	us-gaap/2026	Cash flow hedges	0
+0001628280-26-054343	3	7	CI	0	H	OtherComprehensiveIncomeDefinedBenefitPlansAdjustmentNetOfTaxPortionAttributableToParent	us-gaap/2026	Defined benefit pension and OPEB plans	1
+0001628280-26-054343	3	8	CI	0	H	OtherComprehensiveIncomeLossFinancialLiabilityFairValueOptionAfterTaxAndReclassificationAdjustmentAttributableToParent	us-gaap/2026	DVA on fair value option elected liabilities	0
+0001628280-26-054343	3	9	CI	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Total other comprehensive income/(loss), aftertax	0
+0001628280-26-054343	3	10	CI	0	H	ComprehensiveIncomeNetOfTax	us-gaap/2026	Comprehensive income	0
+0001628280-26-054343	4	7	BS	0	H	CashAndDueFromBanks	us-gaap/2026	Cash and due from banks	0
+0001628280-26-054343	4	8	BS	0	H	InterestBearingDepositsInBanks	us-gaap/2026	Deposits with banks	0
+0001628280-26-054343	4	9	BS	0	H	FederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResell	us-gaap/2026	Federal funds sold and securities purchased under resale agreements (included $432,939 and $327,018 at fair value)	0
+0001628280-26-054343	4	10	BS	0	H	SecuritiesBorrowed	us-gaap/2026	Securities borrowed (included $118,384 and $98,111 at fair value)	0
+0001628280-26-054343	4	11	BS	0	H	TradingAssets	0001628280-26-054343	Trading assets (included assets pledged of $267,907 and $165,927)	0
+0001628280-26-054343	4	12	BS	0	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Available-for-sale securities (amortized cost of $538,689 and $507,226; included assets pledged of $12,007 and $7,735)	0
+0001628280-26-054343	4	13	BS	0	H	DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Held-to-maturity securities	0
+0001628280-26-054343	4	14	BS	0	H	DebtSecuritiesNetCarryingAmount	0001628280-26-054343	Investment securities, net of allowance for credit losses	0
+0001628280-26-054343	4	15	BS	0	H	FinancingReceivableExcludingAccruedInterestBeforeAllowanceForCreditLossesNetOfDeferredIncome	0001628280-26-054343	Loans (included $62,889 and $70,684 at fair value)	0
+0001628280-26-054343	4	16	BS	0	H	FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest	us-gaap/2026	Allowance for loan losses	1
+0001628280-26-054343	4	17	BS	0	H	FinancingReceivableExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Loans, net of allowance for loan losses	0
+0001628280-26-054343	4	18	BS	0	H	AccruedInterestAndAccountsReceivable	0001628280-26-054343	Accrued interest and accounts receivable	0
+0001628280-26-054343	4	19	BS	0	H	PropertyPlantAndEquipmentAndOperatingLeaseRightOfUseAssetAfterAccumulatedDepreciationAndAmortization	0001628280-26-054343	Premises and equipment	0
+0001628280-26-054343	4	20	BS	0	H	GoodwillServicingAssetsAtFairValueAndOtherIntangibleAssets	0001628280-26-054343	Goodwill, MSRs and other intangible assets	0
+0001628280-26-054343	4	21	BS	0	H	OtherAssets	us-gaap/2026	Other assets (included $32,431 and $15,849 at fair value and assets pledged of $16,137 and $11,984)	0
+0001628280-26-054343	4	22	BS	0	H	Assets	us-gaap/2026	Total assets	0
+0001628280-26-054343	4	24	BS	0	H	Deposits	us-gaap/2026	Deposits (included $26,229 and $20,930 at fair value)	0
+0001628280-26-054343	4	25	BS	0	H	FederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase	us-gaap/2026	Federal funds purchased and securities loaned or sold under repurchase agreements (included $568,730 and $360,194 at fair value)	0
+0001628280-26-054343	4	26	BS	0	H	ShortTermBorrowings	us-gaap/2026	Short-term borrowings (included $29,967 and $32,460 at fair value)	0
+0001628280-26-054343	4	27	BS	0	H	TradingLiabilities	us-gaap/2026	Trading liabilities	0
+0001628280-26-054343	4	28	BS	0	H	AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent	us-gaap/2026	Accounts payable and other liabilities (included $18,383 and $6,660 at fair value)	0
+0001628280-26-054343	4	29	BS	0	H	BeneficialInterest	us-gaap/2026	Beneficial interests issued by consolidated VIEs (included $5 and $5 at fair value)	0
+0001628280-26-054343	4	30	BS	0	H	LongTermDebtAndCapitalLeaseObligationsIncludingCurrentMaturities	us-gaap/2026	Long-term debt (included $156,056 and $134,559 at fair value)	0
+0001628280-26-054343	4	31	BS	0	H	OtherLiabilities	us-gaap/2026	All other liabilities	0
+0001628280-26-054343	4	32	BS	0	H	Liabilities	us-gaap/2026	Total liabilities	0
+0001628280-26-054343	4	33	BS	0	H	CommitmentsAndContingencies	us-gaap/2026	Commitments and contingencies (refer to Notes 22, 23 and 24)	0
+0001628280-26-054343	4	35	BS	0	H	PreferredStockIncludingAdditionalPaidInCapitalNetOfDiscount	us-gaap/2026	Preferred stock ($1 par value; authorized 200,000,000 shares; issued 2,105,375 and 2,005,375 shares)	0
+0001628280-26-054343	4	36	BS	0	H	CommonStockValue	us-gaap/2026	Common stock ($1 par value; authorized 9,000,000,000 shares; issued 4,104,933,895 shares)	0
+0001628280-26-054343	4	37	BS	0	H	AdditionalPaidInCapitalCommonStock	us-gaap/2026	Additional paid-in capital	0
+0001628280-26-054343	4	38	BS	0	H	RetainedEarningsAccumulatedDeficit	us-gaap/2026	Retained earnings	0
+0001628280-26-054343	4	39	BS	0	H	AccumulatedOtherComprehensiveIncomeLossNetOfTax	us-gaap/2026	Accumulated other comprehensive losses	0
+0001628280-26-054343	4	40	BS	0	H	TreasuryStockCommonValue	us-gaap/2026	Treasury stock, at cost (1,446,747,700 and 1,408,661,319 shares)	1
+0001628280-26-054343	4	41	BS	0	H	StockholdersEquity	us-gaap/2026	Total stockholders equity	0
+0001628280-26-054343	4	42	BS	0	H	LiabilitiesAndStockholdersEquity	us-gaap/2026	Total liabilities and stockholders equity	0
+0001628280-26-054343	5	13	BS	1	H	FederalFundsSoldAndSecuritiesBorrowedOrPurchasedUnderAgreementsToResellFairValueDisclosure	us-gaap/2026	Federal funds sold and securities purchased under resale agreements at fair value	0
+0001628280-26-054343	5	14	BS	1	H	SecuritiesBorrowedFairValueDisclosure	us-gaap/2026	Securities borrowed at fair value	0
+0001628280-26-054343	5	15	BS	1	H	TradingAssets	0001628280-26-054343	Trading assets pledged	0
+0001628280-26-054343	5	16	BS	1	H	DebtSecuritiesAvailableForSaleAmortizedCostExcludingAccruedInterestAfterAllowanceForCreditLoss	us-gaap/2026	Available-for-sale securities, amortized cost, net of allowance for credit losses	0
+0001628280-26-054343	5	17	BS	1	H	DebtSecuritiesAvailableForSaleExcludingAccruedInterest	us-gaap/2026	Available-for-sale securities	0
+0001628280-26-054343	5	18	BS	1	H	LoansReceivableFairValueDisclosure	us-gaap/2026	Loans at fair value	0
+0001628280-26-054343	5	19	BS	1	H	OtherAssetsFairValueDisclosure	us-gaap/2026	Other assets at fair value	0
+0001628280-26-054343	5	20	BS	1	H	OtherAssets	us-gaap/2026	Other assets pledged	0
+0001628280-26-054343	5	22	BS	1	H	DepositsFairValueDisclosure	us-gaap/2026	Deposits at fair value	0
+0001628280-26-054343	5	23	BS	1	H	FederalFundsPurchasedAndSecuritiesLoanedOrSoldUnderAgreementsToRepurchaseFairValueDisclosure	us-gaap/2026	Federal funds purchased and securities loaned or sold under repurchase agreements at fair value	0
+0001628280-26-054343	5	24	BS	1	H	ShorttermDebtFairValue	us-gaap/2026	Short-term borrowings at fair value	0
+0001628280-26-054343	5	25	BS	1	H	AccountsPayableAndAccruedLiabilitiesFairValueDisclosure	us-gaap/2026	Accounts payable and other liabilities	0
+0001628280-26-054343	5	26	BS	1	H	BeneficialInterestFairValueDisclosure	0001628280-26-054343	Beneficial interests issued by consolidated VIEs at fair value	0
+0001628280-26-054343	5	27	BS	1	H	LongTermDebtFairValue	us-gaap/2026	Long-term debt at fair value	0
+0001628280-26-054343	5	29	BS	1	H	PreferredStockParOrStatedValuePerShare	us-gaap/2026	Preferred stock, par value (in dollars per share)	0
+0001628280-26-054343	5	30	BS	1	H	PreferredStockSharesAuthorized	us-gaap/2026	Preferred stock, shares authorized (in shares)	0
+0001628280-26-054343	5	31	BS	1	H	PreferredStockSharesIssued	us-gaap/2026	Preferred stock, shares issued (in shares)	0
+0001628280-26-054343	5	32	BS	1	H	CommonStockParOrStatedValuePerShare	us-gaap/2026	Common stock, par value (in dollars per share)	0
+0001628280-26-054343	5	33	BS	1	H	CommonStockSharesAuthorized	us-gaap/2026	Common stock, shares authorized (in shares)	0
+0001628280-26-054343	5	34	BS	1	H	CommonStockSharesIssued	us-gaap/2026	Common stock, shares issued (in shares)	0
+0001628280-26-054343	5	35	BS	1	H	TreasuryStockCommonShares	us-gaap/2026	Treasury stock, at cost (in shares)	0
+0001628280-26-054343	6	12	EQ	0	H	StockholdersEquity	us-gaap/2026	Beginning balance	0
+0001628280-26-054343	6	13	EQ	0	H	StockIssuedDuringPeriodValueNewIssues	us-gaap/2026	Issuance	0
+0001628280-26-054343	6	14	EQ	0	H	StockRedeemedOrCalledDuringPeriodValue	us-gaap/2026	Redemption	1
+0001628280-26-054343	6	15	EQ	0	H	AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationAndExerciseOfStockOptions	us-gaap/2026	Shares issued and commitments to issue common stock for employee share-based compensation awards, and related tax effects	0
+0001628280-26-054343	6	16	EQ	0	H	AdjustmentsToAdditionalPaidInCapitalOther	us-gaap/2026	Other	0
+0001628280-26-054343	6	17	EQ	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0001628280-26-054343	6	18	EQ	0	H	DividendsPreferredStockCash	us-gaap/2026	Preferred stock dividends	1
+0001628280-26-054343	6	19	EQ	0	H	DividendsCommonStockCash	us-gaap/2026	Common stock dividends ($1.50 and $1.40 per share and $3.00 and $2.80 per share, respectively)	1
+0001628280-26-054343	6	20	EQ	0	H	OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent	us-gaap/2026	Other comprehensive income/(loss), after-tax	0
+0001628280-26-054343	6	21	EQ	0	H	TreasuryStockValueAcquiredCostMethod	us-gaap/2026	Repurchase	1
+0001628280-26-054343	6	22	EQ	0	H	TreasuryStockValueReissued	0001628280-26-054343	Reissuance	0
+0001628280-26-054343	6	23	EQ	0	H	StockholdersEquity	us-gaap/2026	Ending balance	0
+0001628280-26-054343	7	1	EQ	1	H	CommonStockDividendsPerShareDeclared	us-gaap/2026	Common stock dividends (in dollars per share)	0
+0001628280-26-054343	8	2	CF	0	H	NetIncomeLoss	us-gaap/2026	Net income	0
+0001628280-26-054343	8	4	CF	0	H	ProvisionForLoanLeaseAndOtherLosses	us-gaap/2026	Provision for credit losses	0
+0001628280-26-054343	8	5	CF	0	H	DepreciationAmortizationAndAccretionNet	us-gaap/2026	Depreciation and amortization	0
+0001628280-26-054343	8	6	CF	0	H	DeferredIncomeTaxExpenseBenefit	us-gaap/2026	Deferred tax (benefit)/expense	0
+0001628280-26-054343	8	7	CF	0	H	EquitySecuritiesGainLossOnShareExchange	0001628280-26-054343	Initial gain on the Visa share exchange	1
+0001628280-26-054343	8	8	CF	0	H	OtherNoncashIncomeExpense	us-gaap/2026	Other	1
+0001628280-26-054343	8	9	CF	0	H	PaymentsForOriginationAndPurchasesOfLoansHeldForSale	us-gaap/2026	Originations and purchases of loans held-for-sale	1
+0001628280-26-054343	8	10	CF	0	H	ProceedsFromSalesSecuritizationsAndPaydownsOfLoansHeldForSale	0001628280-26-054343	Proceeds from sales, securitizations and paydowns of loans held-for-sale	0
+0001628280-26-054343	8	12	CF	0	H	IncreaseDecreaseInFinancialInstrumentsUsedInOperatingActivities	us-gaap/2026	Trading assets	1
+0001628280-26-054343	8	13	CF	0	H	IncreaseDecreaseInCashCollateralForBorrowedSecurities	us-gaap/2026	Securities borrowed	1
+0001628280-26-054343	8	14	CF	0	H	IncreaseDecreaseInAccruedInterestsAndAccountsReceivable	0001628280-26-054343	Accrued interest and accounts receivable	1
+0001628280-26-054343	8	15	CF	0	H	IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets	us-gaap/2026	Other assets	1
+0001628280-26-054343	8	16	CF	0	H	IncreaseDecreaseInTradingLiabilities	us-gaap/2026	Trading liabilities	0
+0001628280-26-054343	8	17	CF	0	H	IncreaseDecreaseInAccountsPayableAndOtherLiabilities	0001628280-26-054343	Accounts payable and other liabilities	0
+0001628280-26-054343	8	18	CF	0	H	OtherOperatingActivitiesCashFlowStatement	us-gaap/2026	Other operating adjustments	0
+0001628280-26-054343	8	19	CF	0	H	NetCashProvidedByUsedInOperatingActivities	us-gaap/2026	Net cash (used in) operating activities	0
+0001628280-26-054343	8	22	CF	0	H	ProceedsFromPaymentsForFederalFundsSoldAndSecuritiesPurchasedUnderAgreementsToResellNet	us-gaap/2026	Federal funds sold and securities purchased under resale agreements	0
+0001628280-26-054343	8	24	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfHeldToMaturitySecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0001628280-26-054343	8	25	CF	0	H	PaymentsToAcquireHeldToMaturitySecurities	us-gaap/2026	Purchases	1
+0001628280-26-054343	8	27	CF	0	H	ProceedsFromMaturitiesPrepaymentsAndCallsOfAvailableForSaleSecurities	us-gaap/2026	Proceeds from paydowns and maturities	0
+0001628280-26-054343	8	28	CF	0	H	ProceedsFromSaleOfAvailableForSaleSecuritiesDebt	us-gaap/2026	Proceeds from sales	0
+0001628280-26-054343	8	29	CF	0	H	PaymentsToAcquireAvailableForSaleSecuritiesDebt	us-gaap/2026	Purchases	1
+0001628280-26-054343	8	30	CF	0	H	ProceedsFromSaleOfFinanceReceivables	us-gaap/2026	Proceeds from sales and securitizations of loans held-for-investment	0
+0001628280-26-054343	8	31	CF	0	H	ProceedsFromPaymentsForOtherLoansAndLeases	0001628280-26-054343	Other changes in loans, net	0
+0001628280-26-054343	8	32	CF	0	H	PaymentsForProceedsFromOtherInvestingActivities	us-gaap/2026	All other investing activities, net	1
+0001628280-26-054343	8	33	CF	0	H	NetCashProvidedByUsedInInvestingActivities	us-gaap/2026	Net cash (used in) investing activities	0
+0001628280-26-054343	8	36	CF	0	H	IncreaseDecreaseInDeposits	us-gaap/2026	Deposits	0
+0001628280-26-054343	8	37	CF	0	H	IncreaseDecreaseInFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchaseNet	us-gaap/2026	Federal funds purchased and securities loaned or sold under repurchase agreements	0
+0001628280-26-054343	8	38	CF	0	H	ProceedsFromShortTermDebt	us-gaap/2026	Short-term borrowings	0
+0001628280-26-054343	8	39	CF	0	H	IncreaseDecreaseInBeneficialInterestsIssuedByConsolidatedVariableInterestEntities	0001628280-26-054343	Beneficial interests issued by consolidated VIEs	0
+0001628280-26-054343	8	40	CF	0	H	ProceedsFromIssuanceOfLongTermDebtAndCapitalSecuritiesNet	us-gaap/2026	Proceeds from long-term borrowings	0
+0001628280-26-054343	8	41	CF	0	H	RepaymentsOfLongTermDebtAndCapitalSecurities	us-gaap/2026	Payments of long-term borrowings	1
+0001628280-26-054343	8	42	CF	0	H	ProceedsFromIssuanceOfPreferredStockAndPreferenceStock	us-gaap/2026	Proceeds from issuance of preferred stock	0
+0001628280-26-054343	8	43	CF	0	H	PaymentsForRepurchaseOfRedeemablePreferredStock	us-gaap/2026	Redemption of preferred stock	1
+0001628280-26-054343	8	44	CF	0	H	PaymentsForRepurchaseOfCommonStock	us-gaap/2026	Treasury stock repurchased	1
+0001628280-26-054343	8	45	CF	0	H	PaymentsOfDividends	us-gaap/2026	Dividends paid	1
+0001628280-26-054343	8	46	CF	0	H	ProceedsFromPaymentsForOtherFinancingActivities	us-gaap/2026	All other financing activities, net	0
+0001628280-26-054343	8	47	CF	0	H	NetCashProvidedByUsedInFinancingActivities	us-gaap/2026	Net cash provided by financing activities	0
+0001628280-26-054343	8	48	CF	0	H	EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Effect of exchange rate changes on cash and due from banks and deposits with banks	0
+0001628280-26-054343	8	49	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect	us-gaap/2026	Net decrease in cash and due from banks and deposits with banks	0
+0001628280-26-054343	8	50	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks and deposits with banks at the beginning of the period	0
+0001628280-26-054343	8	51	CF	0	H	CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents	us-gaap/2026	Cash and due from banks and deposits with banks at the end of the period	0
+0001628280-26-054343	8	52	CF	0	H	InterestPaidNet	us-gaap/2026	Cash interest paid	0
+0001628280-26-054343	8	53	CF	0	H	IncomeTaxesPaidNet	us-gaap/2026	Cash income taxes paid, net	0

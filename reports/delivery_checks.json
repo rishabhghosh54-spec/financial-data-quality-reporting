@@ -1,0 +1,28 @@
+{
+  "source_hashes": "PASS",
+  "repeat_run_csv_equality": "PASS",
+  "identical_exports": [
+    "companies.csv",
+    "company_metrics.csv",
+    "control_results.csv",
+    "dashboard_controls.csv",
+    "exceptions.csv",
+    "query_01.csv",
+    "query_02.csv",
+    "query_03.csv",
+    "query_04.csv",
+    "query_05.csv",
+    "query_06.csv",
+    "query_07.csv",
+    "query_08.csv"
+  ],
+  "automated_tests": {
+    "tests": 23,
+    "passed": 23,
+    "failed": 0,
+    "source": "Controlled in-memory cases and read-only source regressions; no injected rows in data/raw."
+  },
+  "report_json_and_canvas_bounds": "PASS",
+  "desktop_rendering": "PASS: both pages refreshed, rendered and saved; representative company and QA-origin filters checked.",
+  "github_source_copy": "Cache excluded; CSV paths reset to documented local defaults. Desktop rendering checks apply to the original local report. Refresh required after cloning."
+}

@@ -1,0 +1,7 @@
+**/.pbi/
+*.abf
+*.pbix
+*.sqlite
+__pycache__/
+*.zip
+work/

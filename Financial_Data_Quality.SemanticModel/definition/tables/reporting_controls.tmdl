@@ -1,0 +1,229 @@
+table reporting_controls
+	lineageTag: 2a4575e8-eaf9-455e-aeb9-64d22c7c1925
+
+	measure Filings = DISTINCTCOUNT('reporting_controls'[adsh])
+		formatString: 0
+		displayFolder: Reporting Controls
+		lineageTag: f9c5a892-c2ad-4a2a-bb57-337292c52917
+
+	measure Companies = DISTINCTCOUNT('reporting_controls'[cik])
+		formatString: 0
+		displayFolder: Reporting Controls
+		lineageTag: f7084476-465f-4640-a932-51691576ddd4
+
+	measure 'Numeric Facts' = SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[numeric_facts])))
+		formatString: #,0
+		displayFolder: Reporting Controls
+		lineageTag: 57858239-2ef0-407d-8eaa-10e7e0dfc84d
+
+	measure 'Rule Evaluations' = SUM('reporting_controls'[checked_count])
+		formatString: #,0
+		displayFolder: Reporting Controls
+		lineageTag: 56a7f83b-b067-4faa-b3ed-c6502c7dcad3
+
+	measure 'Actionable Events' = COALESCE(CALCULATE(SUM('reporting_controls'[flagged_count]), KEEPFILTERS('reporting_controls'[severity] <> "INFO")), 0)
+		formatString: #,0
+		displayFolder: Reporting Controls
+		lineageTag: 1818e2ec-ad62-42b9-91be-b454d8389e4b
+
+	measure 'Nil Disclosures' = COALESCE(CALCULATE(SUM('reporting_controls'[flagged_count]), KEEPFILTERS('reporting_controls'[rule_id] = "NIL_DISCLOSURE")), 0)
+		formatString: #,0
+		displayFolder: Reporting Controls
+		lineageTag: 5b3e1972-2ea4-4af7-94bf-3d3791d99033
+
+	measure 'Flagged Events' = SUM('reporting_controls'[flagged_count])
+		formatString: #,0
+		displayFolder: Reporting Controls
+		lineageTag: 0921af90-cdea-43b6-ae2f-31fd040e79b1
+
+	measure 'Passed Evaluations' = SUM('reporting_controls'[passed_count])
+		formatString: #,0
+		displayFolder: Reporting Controls
+		lineageTag: a2684cc2-a15f-4818-a921-f4215cc5bc9e
+
+	measure 'Balance Checks Passed' = SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[balance_passed])))
+		formatString: 0
+		displayFolder: Reporting Controls
+		lineageTag: fd841d4b-aed6-413a-b15b-1746faf3be19
+
+	measure 'Balance Pass Rate' = DIVIDE([Balance Checks Passed], [Filings])
+		formatString: 0%
+		displayFolder: Reporting Controls
+		lineageTag: 3eb01151-d016-478c-9ddc-a453858727d0
+
+	measure 'Reported Assets (USD bn)' = DIVIDE(SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[assets_usd]))), 1000000000)
+		formatString: #,0.0
+		displayFolder: Reporting Controls
+		lineageTag: 18781db6-d219-4ac0-986c-8f64aa957790
+
+	measure 'Quarter Net Income (USD bn)' = DIVIDE(SUMX(VALUES('reporting_controls'[adsh]), CALCULATE(MAX('reporting_controls'[quarter_net_income_usd]))), 1000000000)
+		formatString: #,0.00
+		displayFolder: Reporting Controls
+		lineageTag: da27f5fd-fc06-404c-8e6f-92c16688e7b5
+
+	column cik
+		dataType: string
+		lineageTag: 638f0956-385c-4ca2-b674-0d5524cb76a5
+		summarizeBy: none
+		sourceColumn: cik
+
+	column company
+		dataType: string
+		lineageTag: 904f75f9-5365-47e6-ac37-b7ab0c6c3815
+		summarizeBy: none
+		sourceColumn: company
+
+	column display_name
+		dataType: string
+		lineageTag: 8fba1cc8-3d68-4b2b-bfce-aaa36d37fbe5
+		summarizeBy: none
+		sourceColumn: display_name
+
+	column adsh
+		dataType: string
+		lineageTag: 5d571d72-200d-429c-8397-45f04c759e68
+		summarizeBy: none
+		sourceColumn: adsh
+
+	column form
+		dataType: string
+		lineageTag: d1ac3164-f008-4dcb-aa34-cd630aa28039
+		summarizeBy: none
+		sourceColumn: form
+
+	column report_period
+		dataType: string
+		lineageTag: aa59152d-b859-47b4-816c-43c0cc2b290b
+		summarizeBy: none
+		sourceColumn: report_period
+
+	column filed_date
+		dataType: string
+		lineageTag: f506e11a-ad6b-49a8-a40e-d6e74de493c8
+		summarizeBy: none
+		sourceColumn: filed_date
+
+	column download_batch
+		dataType: string
+		lineageTag: c422afbc-a174-47cc-85f5-92ab1b1e7d12
+		summarizeBy: none
+		sourceColumn: download_batch
+
+	column assets_usd
+		dataType: double
+		lineageTag: 756367fe-5aca-4cb5-8bc1-0f1afd948b17
+		summarizeBy: sum
+		sourceColumn: assets_usd
+
+	column reported_liabilities_equity_usd
+		dataType: double
+		lineageTag: 41524330-15d9-4f6a-b010-4155d4c6e7e9
+		summarizeBy: sum
+		sourceColumn: reported_liabilities_equity_usd
+
+	column quarter_net_income_usd
+		dataType: double
+		lineageTag: 0ed06135-c7f8-44fd-bb0f-42ffae684fa7
+		summarizeBy: sum
+		sourceColumn: quarter_net_income_usd
+
+	column balance_difference_usd
+		dataType: double
+		lineageTag: 2c60edeb-928b-499e-9153-1b8f11bf209e
+		summarizeBy: sum
+		sourceColumn: balance_difference_usd
+
+	column balance_status
+		dataType: string
+		lineageTag: 8363a95e-489b-49d2-be1d-f4bbe6c889a7
+		summarizeBy: none
+		sourceColumn: balance_status
+
+	column tolerance_usd
+		dataType: double
+		lineageTag: 35e1b0b6-a8da-4353-8d1e-f11489eb421c
+		summarizeBy: sum
+		sourceColumn: tolerance_usd
+
+	column numeric_facts
+		dataType: int64
+		lineageTag: f819095a-4a78-477a-9673-59577491b050
+		summarizeBy: sum
+		sourceColumn: numeric_facts
+
+	column filing_url
+		dataType: string
+		lineageTag: 0fd92d58-49c8-4416-b3f1-54f716b40827
+		summarizeBy: none
+		sourceColumn: filing_url
+
+	column origin
+		dataType: string
+		lineageTag: 3fa0f0c1-c34f-4315-87d5-797e6de1a70c
+		summarizeBy: none
+		sourceColumn: origin
+
+	column rule_id
+		dataType: string
+		lineageTag: 89781b97-ba8f-4939-a380-ff82563edf5f
+		summarizeBy: none
+		sourceColumn: rule_id
+
+	column severity
+		dataType: string
+		lineageTag: 2ad8867b-57ee-4262-a63e-44e3d5275847
+		summarizeBy: none
+		sourceColumn: severity
+
+	column owner
+		dataType: string
+		lineageTag: 3fe26268-f4b4-476a-b8ad-4b59569f1984
+		summarizeBy: none
+		sourceColumn: owner
+
+	column definition
+		dataType: string
+		lineageTag: c1149ec4-97cb-4a29-b4c5-2953ff98d17c
+		summarizeBy: none
+		sourceColumn: definition
+
+	column checked_count
+		dataType: int64
+		lineageTag: 93d4b21e-c1dc-4a1f-b114-fbccf83e02b1
+		summarizeBy: sum
+		sourceColumn: checked_count
+
+	column flagged_count
+		dataType: int64
+		lineageTag: 00581b52-8a6e-49e3-8ae7-16c27b8a6a6d
+		summarizeBy: sum
+		sourceColumn: flagged_count
+
+	column passed_count
+		dataType: int64
+		lineageTag: 43e570c8-6bfa-4e66-b622-99756a242d93
+		summarizeBy: sum
+		sourceColumn: passed_count
+
+	column status
+		dataType: string
+		lineageTag: 3d8cdee7-5423-4516-bc01-d23f39d1cb1e
+		summarizeBy: none
+		sourceColumn: status
+
+	column balance_passed
+		dataType: int64
+		lineageTag: dff94a04-70c9-47b9-bc9c-28b65cc591eb
+		summarizeBy: sum
+		sourceColumn: balance_passed
+
+	partition reporting_controls = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\financial-data-quality-reporting\reports\dashboard_controls.csv"),[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"cik", type text}, {"company", type text}, {"display_name", type text}, {"adsh", type text}, {"form", type text}, {"report_period", type text}, {"filed_date", type text}, {"download_batch", type text}, {"assets_usd", type number}, {"reported_liabilities_equity_usd", type number}, {"quarter_net_income_usd", type number}, {"balance_difference_usd", type number}, {"balance_status", type text}, {"tolerance_usd", type number}, {"numeric_facts", Int64.Type}, {"filing_url", type text}, {"origin", type text}, {"rule_id", type text}, {"severity", type text}, {"owner", type text}, {"definition", type text}, {"checked_count", Int64.Type}, {"flagged_count", Int64.Type}, {"passed_count", Int64.Type}, {"status", type text}, {"balance_passed", Int64.Type}}, "en-US")
+				in
+				    Typed
+
